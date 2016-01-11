@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="Maven: com.typesafe.akka:akka-actor:2.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor/2.0.2/akka-actor-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor/2.0.2/akka-actor-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor/2.0.2/akka-actor-2.0.2-sources.jar!/" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-actor-tests/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-actor/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-actor/src/main/scala" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-camel/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster-metrics/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster-sharding/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster-sharding/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster-tools/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster-tools/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-cluster/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-contrib/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-distributed-data/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-distributed-data/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-docs/rst/common/code" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-docs/rst/general/code" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-docs/rst/java/code" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-docs/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-multi-node-testkit/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-persistence-query/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-persistence/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-persistence/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-protobuf/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-remote/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-remote/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-camel-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-cluster-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-distributed-data-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-fsm-java-lambda/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-main-java-lambda/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-main-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-persistence-java-lambda/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-persistence-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-remote-java/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-supervision-java-lambda/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-samples/akka-sample-supervision-java-lambda/src/test/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-testkit/src/main/java" />
+      <root url="jar://G:/study/Scala/Akka/akka-master.zip!/akka-master/akka-testkit/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
