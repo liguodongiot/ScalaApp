@@ -9,7 +9,9 @@ package Study012
 object Demo {
 
   def main(args: Array[String]) {
+
     val w = new Worker("Spark",88,1000)
+
     println("School:" + w.school)
     println("Salary:" + w.salary)
     println("oo:" + w.toString)
@@ -17,7 +19,7 @@ object Demo {
   }
 }
 
-
+//父类
 class Person(val name: String, var age: Int){
   println("The primary constructor of Person...")
   val school = "BJ University"
@@ -27,6 +29,7 @@ class Person(val name: String, var age: Int){
   override def toString = "I am a Person!!!"
 }
 
+//子类
 class Worker(name: String, age: Int, val salary :Long)
   extends Person(name,age){
 

@@ -22,6 +22,13 @@ object HelloOOP {
     //student.name = "Spark"
     println(student.name)
 
-    println(student.priage)//自定义的setter方法
+    println(student.getPriage)//自定义的getter方法
+
+
+    val st2 = new Student
+    st2.setPriage(5)
+
+    println(student.isYounger(st2))
+
   }
 }

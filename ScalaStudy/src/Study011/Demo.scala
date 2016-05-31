@@ -13,7 +13,7 @@ object Demo {
     println("----------")
     val app = new ApplyTest
     app.haveATry
-    println(app())
+    println(app)
 
   }
 }

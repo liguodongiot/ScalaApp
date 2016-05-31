@@ -12,6 +12,7 @@ object OOPInScala {
     //Java中，内部类从属于外部类
     //Scala中，内部类从属于外部类的对象
     val inner1 = new outer1.Inner("liguodong")
+
     val inner2 = new outer2.Inner("likexin")
 
     inner1.foo(inner1)

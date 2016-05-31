@@ -9,8 +9,8 @@ import scala.io.Source
 object LazyDemo {
   def main(args: Array[String]) {
     //变量或者常量加上lazy修饰之后，只有在第一次被使用时，才会被实例化
-    lazy val file = Source.fromFile("E:/baby.txt")
+    lazy val file = Source.fromFile("D:/lilili.txt")
     println("Over...")
-    //for(line <- file.getLines()) println(line)
+    for(line <- file.getLines()) println(line)
   }
 }

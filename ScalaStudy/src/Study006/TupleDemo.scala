@@ -9,14 +9,21 @@ object TupleDemo {
     val tuple = (1,2,3,5,1001,"Jason","Mark")
     //访问元素
     val third = tuple._3
+    println(third)
 
     val (first,second,thirds,fourht,fifth,sixth,seren) = tuple
+    println("first:"+first+",fifth:"+fifth)
+
 
     //如果不需要改值的话，需要使用占位符
     val (f, s, _, _, _,_,_) = tuple
+    println("f:"+f+",s:"+s)
 
     //遍历字符串是否是大写，大写放入一个集合，其他的另外一个集合
-    "Rocky Spark".partition(_.isUpper)
+    val (upper,lower) = "Rocky Spark".partition(_.isUpper)
+    println("[upper:"+upper+",lower:"+lower+"]")
+
+
 
   }
 }

@@ -18,6 +18,10 @@ object MapDemo {
       println("Key is "+k+".")
     }
 
+    //如果不想使用key
+    for((_,v) <- args){
+      println("Value is "+v+".")
+    }
 
   }
 }

@@ -18,6 +18,7 @@ object ZipDemo {
     val numbers = Seq(0,1,2,3,4)
     val service = List(0,1,2,3,4,5)
     println(numbers zip service)
+
     val temp = numbers zip service
     for((x,y)<-temp) print(x*y+" ")
     println
@@ -31,6 +32,7 @@ object ZipDemo {
     val fullC = 0
     print(A.zipAll(B,fullA,fullB))
     println()
+
     print(B.zipAll(C,fullB,fullC))
     println()
 

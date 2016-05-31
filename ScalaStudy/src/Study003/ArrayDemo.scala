@@ -4,6 +4,7 @@ package Study003
   * 2、
   * Created by liguodong on 2015/11/14.
   */
+
 object ArrayDemo {
   def main(args: Array[String]) {
     val array = Array(1,2,3,4,5)

@@ -25,12 +25,9 @@ object MapDemo {
     //按照key值进行排序
     val scoreSort = scala.collection.immutable.SortedMap("Scala"->7,"Hadoop"->8,"Akka"->9)
 
-
-
-
-
-
-
+    for((k,v)<-scoreSort){
+      println("[k:"+k+",v:"+v+"]")
+    }
 
 
   }

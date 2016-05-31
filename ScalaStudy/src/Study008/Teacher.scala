@@ -5,6 +5,7 @@ package Study008
   * Created by liguodong on 2015/11/15.
   */
 class Teacher {
+
   //name本身是私有的，但是它的setter方法是共有的
   var name : String = _
   private var age = 27

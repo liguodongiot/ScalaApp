@@ -2,7 +2,7 @@ package Study018
 
 import java.io.{File, PrintWriter}
 
-import scala.io.{StdIn, Source}
+import scala.io.{/*StdIn,*/ Source}
 
 /**
   * 文件的读取写入操作
@@ -30,8 +30,8 @@ object Demo {
 
     //打印到控制台
     println("请说出你的心里话：")
-    //val line = Console.readLine() //过时了
-    val line = StdIn.readLine
+    val line = Console.readLine() //过时了
+    //val line = StdIn.readLine
     println("谢谢你哟，么么哒。" + line)
 
   }

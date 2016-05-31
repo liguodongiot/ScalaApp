@@ -27,6 +27,7 @@ object ForFunctionDemo {
     //函数的参数
     def combine(content:String, left:String="[",right:String = "]") = left +" "+content +" "+ right
     println("The Result from a combine is : "+combine("I love Scala","思密达"))
+    println("The Result from a combine is : "+combine("I love Scala"))
 
     //可变参数
     def connected(args: Int*) ={

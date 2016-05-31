@@ -12,13 +12,28 @@ object Demo {
     logger.study()
 
     println("---------")
-    //混入-->有问题没解决
-    //val stu = new ConcreteLogger with TraitLogger
-    //stu.study()
+
+    val traitLogger = new TraitLogger
+    traitLogger.log("liguodong")
+    traitLogger.study
+
+    println("---------")
+    val traitLoggered = new Test
+    traitLoggered.test
+    traitLoggered.logTraitLoggered("liguodong")
+    traitLoggered.studyTraitLoggered
+
+    println("---------")
+
+
+    val stu = new ConcreteLogger with TraitLoggered
+    stu.studyTraitLoggered()
 
   }
 }
 
+
+//特质
 trait Logger{
   //抽象方法
   def log(msg: String)
@@ -38,6 +53,7 @@ class ConcreteLogger extends Logger /*with Cloneable*/{
 
 }
 
+
 class  TraitLogger extends Logger{
 
   override def log(msg: String){
@@ -50,23 +66,25 @@ class  TraitLogger extends Logger{
 }
 
 trait TraitLoggered{
-  def  log(msg: String){
+  def logTraitLoggered(msg: String){
     println("TraitLoggered Log content is : " +msg)
   }
-  def study(){
-    println("override study...")
+  def studyTraitLoggered(){
+    println("TraitLoggered study...")
   }
 }
 
 
-trait ConsoleLogger extends TraitLogger{
-  override def log(msg: String){
+trait ConsoleLogger extends TraitLoggered{
+  override def logTraitLoggered(msg: String){
     println("Log from Console : " + msg)
   }
 }
 
-class Test extends ConcreteLogger{
+class Test extends ConsoleLogger{
+
   def test{
-    log("Here is Spark!!!")
+    logTraitLoggered("Here is Spark!!!")
   }
 }
+

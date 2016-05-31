@@ -2,18 +2,20 @@ package Study002
 
 import java.io.File
 
-import scala.io.StdIn
+//import scala.io.StdIn
 
 /**
   * Created by liguodong on 2015/11/13.
   */
+
 object ScalaBasic {
 
   def dowhile(): Unit ={
     var line = ""
     do {
-      //line = readLine()
-      line = StdIn.readLine()
+      println("请输入字符串：")
+      line = readLine()
+      //line = StdIn.readLine()
       if(line!="") println("Read:" + line)
     } while (line != "")
   }

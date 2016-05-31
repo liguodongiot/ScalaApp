@@ -6,11 +6,15 @@ package Study007
 class Student {
   //scala中会默认帮我们生成setter/getter方法
   var age = 0
+  
   //常量默认只有getter方法
   val name = "Scala"
 
   private var priAge = 0
-  def priage = priAge //getter方法
+  
+  def getPriage = priAge //getter方法
+  
+  def setPriage(priage:Int) = {priAge = priage}
 
   //对象私有字段
   //这个字段属于当前对象私有的属性，限定为该属性只能为当前对象所有，不能够为当前对象的类所在的方法所使用
