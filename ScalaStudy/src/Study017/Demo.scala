@@ -14,7 +14,9 @@ package spark{
 
   package navigation{
     //private限定Navigator的可见度，可以扩展为spark这个包
+
     //Navigator类对包含在spark包及其子包下面的类和对象可见
+
     //在spark包及其子包下面的类和对象都可以访问Navigator
     private[spark] class Navigator{
 
@@ -46,6 +48,7 @@ package spark{
       result
     }
   }
+
   //伴生类也可以随便访问伴生对象
   class PackageOps_Advanced{
     import PackageOps_Advanced.power

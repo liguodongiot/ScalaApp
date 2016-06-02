@@ -6,6 +6,7 @@ import scala.math._
   * 高阶函数(****)
   * Created by liguodong on 2015/11/19.
   */
+
 object Demo {
   def main(args: Array[String]) {
     (1 to 9).map("*" * _).foreach(println _)
@@ -40,14 +41,18 @@ object Demo {
     //函数作为参数
     Array(3.14, 1.42, 2.0).map(fun).foreach(println)
     Array(3.14, 1.42, 2.0).map(fun).foreach(x => print(x+" "))
-
+    Array(3.14, 1.42, 2.0).map(fun).foreach(x => print(x + 1))
     println("\n------")
 
     //匿名函数
     val triple = (x: Double) => 3 * x
+
     Array(3.14, 1.42, 2.0).map( (x: Double) => 3 * x).foreach(x => print(x+" "))
     println("\n------")
     Array(3.14, 1.42, 2.0).map{ (x: Double) => 3 * x }.foreach(x => print(x+" "))
+    println("\n------")
+
+    Array(3.14, 1.42, 2.0).map( (x: Double) => 3 * x).map(fun).filter(_%2==0).foreach(x => print(x+" "))
     println("\n------")
 
     //高阶函数
@@ -63,6 +68,7 @@ object Demo {
 
     println(quintuple(20)) //5 * 20
 
+    //0.25*3
     println( high_order_functions( (x: Double) => 3*x) )
 
     high_order_functions((x) => 3*x)
@@ -71,7 +77,7 @@ object Demo {
 
     val fun2 = 3 * ( _ : Double )
 
-    val fun3:((Double) => Double) = 3 * _
+    val fun3:( (Double) => Double ) = 3 * _
 
     val fun4:(Double) => Double = 3 * _
 

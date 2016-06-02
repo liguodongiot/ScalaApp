@@ -16,7 +16,7 @@ object Demo {
     def add(more: Int) = (x: Int) => x + more
     val a = add(1)  //(x: Int) => x + 1
     val b = add(9999) //(x: Int) => x + 9999
-    println(a(10)) //22
+    println(a(10)) //11
     println(b(10)) //10009
 
   }

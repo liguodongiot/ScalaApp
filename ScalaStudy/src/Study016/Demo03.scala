@@ -21,3 +21,7 @@ import scala.{StringBuilder =>_}
 object Demo03 {
 
 }
+//java.lang、scala和Predef包总是被引入的。
+//作用域规则：可访问上层作用域中的名称。
+//在Scala中包名是相对的。而在Java中包名是绝对的，是从包层级的最顶端开始的。相对的包名可能会带来问题。
+//使用了串联式包语句，由于包的上级层次不可见了

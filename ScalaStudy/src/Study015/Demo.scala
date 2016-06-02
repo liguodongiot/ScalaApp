@@ -7,6 +7,7 @@ package Study015
   * Created by liguodong on 2015/11/17.
   */
 object Demo {
+
   def main(args: Array[String]) {
     val p = new PianoTeacher
     p.playPiano

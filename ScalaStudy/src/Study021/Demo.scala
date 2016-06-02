@@ -8,11 +8,12 @@ object Demo {
   def main(args: Array[String]) {
 
     val data = List(1,2,3,4,5,6)
+
     //循环遍历集合中的每一个元素
     data.foreach(print _)
     println
-    data.foreach(x => print(x+" "))
 
+    data.foreach(x => print(x+" "))
     println
 
     def sum(a: Int, b:Int, c:Int) = a+b+c

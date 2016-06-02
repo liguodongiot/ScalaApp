@@ -5,6 +5,12 @@ import scala.io.Source
 /**
   * 本地函数
   * 作为一等公民的函数
+  *
+  * 参数
+  * 5
+  * D:\lilili.txt
+  * D:\people.txt
+  *
   * Created by liguodong on 2015/11/19.
   */
 object Demo {
@@ -16,25 +22,32 @@ object Demo {
       if(line.length > width) println(filename+": "+line)
     }
 
+    //读取文件
     val source = Source.fromFile(filename)
     for(line <- source.getLines()) processLine(line)
   }
 
   def main(args: Array[String]) {
+
     val width = args(0).toInt
-    for(arg <- args.drop(1))
+
+    //args.drop(1) 去除数组第一个元素
+    for(arg <- args.drop(1)){
+      println(arg+" "+width)
       processData(arg,width)
+    }
+
 
     //函数作为Scala中的一等公民,把函数当做一个变量
     var increase = (x:Int)=>x+1 //匿名函数
     println("one:"+increase(10))
-    //当函数作为一个变量是，可以被赋与其它的值
+    //当函数作为一个变量时，可以被赋与其它的值
     increase = (x:Int) =>x+999
     println("two:"+increase(10))
 
     val someNumbers = List(-11,-10,2,-5,0,52,10)
     //对集合中的每个元素进行迭代
-    someNumbers.foreach((x:Int) => print(x+" "))
+    someNumbers.foreach((x:Int) => print(x+1 + " "))
     println()
     //过滤出大于0的元素
     val num = someNumbers.filter((x:Int) => x>0)

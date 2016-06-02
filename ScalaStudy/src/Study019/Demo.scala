@@ -24,6 +24,8 @@ object Demo {
     val numitemPattern(num,item) = "99 hadoop"
     //num: String = 99
     //item: String = hadoop
+    println(num+" "+item)
+
 
     val line = "93459 spark"
     line match{

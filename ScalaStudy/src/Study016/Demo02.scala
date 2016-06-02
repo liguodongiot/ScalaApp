@@ -1,6 +1,7 @@
 package Study016
 
 package com.scala.spark
+
 //包对象
 package object people{
   val defaultName = "Scala"
