@@ -3,11 +3,11 @@ package Study047
 /**
   * 多重界定
   *
-  * T <: A with B
+  * T <: A with B with C (可以实现多个特质)
   * T >: A with B
-  * T >: A :< B
-  * T : A : B
-  * T <% A <% B
+  * T >: A :< B （同时指定上界和下界）
+  * T : A : B (多个上下文界定)
+  * T <% A <% B （多个视图界定）
   *
   * Created by liguodong on 2015/12/6.
   */

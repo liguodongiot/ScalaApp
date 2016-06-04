@@ -4,10 +4,13 @@ package Study034
   * 对List进行的高效排序与倒排序
   * Created by liguodong on 2015/11/30.
   */
+
 object Demo {
   def main(args: Array[String]) {
+
     val list = mergedsort((x: Int,y :Int) => x<y)(List(1,3,21,34,2))
     println(list)
+
     val list_reversed = mergedsort((x:Int,y:Int)=>x>y) _
     println(list_reversed(List(1,2,3,4)))
   }

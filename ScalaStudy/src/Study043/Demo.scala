@@ -14,14 +14,16 @@ object Demo {
 
 
 //class Pair[T](val first:T,val second:T)
-//指定了上界   子类
+//添加一个上界   T是子类
 class Pair[ T <: Comparable[T] ](val first:T,val second:T){
   def bigger = if(first.compareTo(second)>0) first else second
 }
 
-//制定了下界   R是T的父类
+//指定了下界   R是T的父类
 class Pair_Lower_Bound[T](val first:T,val second:T){
-  def replaceFirst[R >: T](newFirst:R) = new Pair_Lower_Bound[R](newFirst,second)
+
+  //def replaceFirst[R >: T](newFirst:R) = new Pair_Lower_Bound[R](newFirst,second)
+  def replaceFirst[R >: T](newFirst:R) = new Pair_Lower_Bound(newFirst,second)
 }
 
 

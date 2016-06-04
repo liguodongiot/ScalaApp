@@ -6,8 +6,10 @@ import java.util
   * Variance
   * Created by liguodong on 2015/12/7.
   */
+
 class Person
 class Student extends Person
+
 class C[+T](val args:T)
 
 class S[+T](arg:T) extends C[T](arg)
@@ -22,6 +24,7 @@ object Demo {
   }
 
   def main(args:Array[String]): Unit ={
+
     val value:C[Person] = new C[Student](new Student)
 
 

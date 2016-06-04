@@ -48,13 +48,68 @@
 
 23  高阶函数(****)  匿名函数
 
+24  SAM转换
+
+25  柯里化
+
 ==========================================
 
+26  模式匹配初体验
+
+27  Type/Array/List/Tuple模式匹配
+
+28  提取器Extractor
+
+29  case class 和 case object
+
+30  嵌套的case class
+
+31  Option使用
+
+32  基于模式匹配的List排序算法
+
+33  List一阶函数的操作
+
+34  对List进行的高效排序与倒排序
+
+35  对List的map，flatMap实战 对List的foreach，filter实战
+
+36  List的partition find takeWhile dropWhile span forall exists操作
+
+37  List的foldLeft foldRight sort操作
+
+38  List的伴生对象的操作方法【apply make range unzip flatten contact map2 zipped.map 】
+
+39  ListBuffer ArrayBuffer Queue Stack
+
+40  Set Map TreeSet TreeMap
+
+41  List继承体系实现内幕和方法操作
 
 
 ==========================================
 
+42  Scala泛型类与泛型函数
 
+43  类型变量Bounds 类型变量的上界和类型变量的下界
+
+44  View Bounds
+
+45  Context Bounds(上下文界定)
+
+46  ClassTag/Manifest/ClassManifest/TypeTag
+
+47  多重界定
+
+48  类型约束
+
+49  Variance 形变  逆变
+
+50  Variance变化点（协变点和逆变点）
+
+=======~~~~~~~·===========~~~~~~=======
+
+51  链式调用
 
 
 

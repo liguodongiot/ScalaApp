@@ -11,7 +11,9 @@ object Demo {
     println(List.apply(1,2,3))
     //第一个参数是次数，第二个参数是重复的元素
     println(List.fill(5)(3))
+
     println(List.fill(2,5)(3))
+
     println(List.range(1,5))
     //（9~1）步长是-3
     println(List.range(9,1,-3))
@@ -25,9 +27,9 @@ object Demo {
 
     println(List.concat(List(),List('b'),List('c')))
 
-
+    //@deprecated("use `(xs, ys).zipped.map(f)` instead of `List.map2(xs, ys)(f)`", "2.8.0")
     //println(List.map2(List(10,20),List(10,10))(_ * _))  //List(100,200)
-
+    println( (List(10,20),List(10,10)).zipped.map(_*_) )
 
   }
 }

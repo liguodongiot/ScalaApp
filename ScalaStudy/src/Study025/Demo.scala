@@ -17,6 +17,7 @@ object Demo {
 
     println(multipleOne(6)(7))
 
+    //柯里化
     def curring(x: Int)(y: Int) = x * y  //同上的效果一样
     println(curring(6)(7))
 
@@ -24,6 +25,6 @@ object Demo {
     val a = Array("Hello","Spark")
     val b = Array("hello","spark")
 
-    println(a.corresponds(b)(_.equalsIgnoreCase(_))) //看源码
+    println( a.corresponds(b)(_.equalsIgnoreCase(_)) ) //看源码
   }
 }

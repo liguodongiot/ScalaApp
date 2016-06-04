@@ -31,6 +31,49 @@ object Demo {
     }
     println(p1Matches)
 
+
+    val p2 = "a(b*)c".r
+    val p2Matches = "abbbc" match {
+      //case p2(_*) => true             // any groups
+      case p2(_*) => true
+      case _      => false
+    }
+    println(p2Matches)
+
+    val numberOfB = "abbbc" match {
+      //case p2(b) => Some(b.length)    // one group
+      case p2(b) => Some(b)
+      case _     => None
+    }
+    println("numberOfB:"+numberOfB)
+
+    val p3 = "b*".r.unanchored
+    val p3Matches = "abbbc" match {
+      case p3() => true               // find the b's
+      //case p3() => Some(b)
+      case _    => false
+    }
+    println(p3Matches)
+
+    val p4 = "a(b*)(c+)".r
+    val p4Matches = "abbbcc" match {
+      case p4(_*) => true             // multiple groups
+      case _      => false
+    }
+    println(p4Matches)
+
+    val allGroups = "abbbcc" match {
+      case p4(all @ _*) => all mkString "/" // "bbb/cc"
+      case _            => ""
+    }
+    println(allGroups)
+
+    val cGroup = "abbbcc" match {
+      case p4(_, c) => c
+      case _        => ""
+    }
+    println(cGroup)
+
   }
 
   def match_array(arr:Any) = arr match{

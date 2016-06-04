@@ -18,6 +18,7 @@ object Demo {
     var data = 0
     val frame = new JFrame("SAM Testing")
     val jButton = new JButton("Counter")
+
     /*------------*/
     //Java方式
     /*jButton.addActionListener(new ActionListener {
@@ -30,9 +31,9 @@ object Demo {
     /*------------*/
     //Scala方式
 
-    //隐式转换就是将一种类型自动转换成另外一种类型，是个函数。
+    // 隐式转换就是将一种类型自动转换成另外一种类型，是个函数。
     // 因为在Scala中，函数是头等公民，所以隐式转换的作用也大大放大了。
-    implicit def convertedAction(action: (ActionEvent)=>Unit ) =
+    implicit def convertedAction( action: (ActionEvent)=>Unit ) =
     new ActionListener {
       override def actionPerformed(event: ActionEvent) {
         action(event)

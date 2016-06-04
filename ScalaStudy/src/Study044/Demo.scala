@@ -5,6 +5,7 @@ package Study044
   *
   * Created by liguodong on 2015/12/6.
   */
+
 object Demo {
   def main(args: Array[String]) {
 

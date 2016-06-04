@@ -4,6 +4,7 @@ package Study027
   * Type/Array/List/Tuple模式匹配
   * Created by liguodong on 2015/11/20.
   */
+
 object Demo {
   def main(args: Array[String]) {
     //类型匹配
@@ -12,10 +13,11 @@ object Demo {
     ArrayDemo.match_type(Map("Scala"->"Spark","Java"->"JVM"))
 
     //数组匹配
-    ArrayDemo.match_array(Array(0))
+    ArrayDemo.match_array(Array(1))
     ArrayDemo.match_array(Array(0,1))
     ArrayDemo.match_array(Array(0,1,2,3,4,5,6))
-
+    ArrayDemo.match_array(Array(1,2,3,4,5,6))
+    ArrayDemo.match_array(Array(0))
     //列表
     ListDemo.match_list(List(0))
     ListDemo.match_list(List(0,1))
@@ -31,15 +33,17 @@ object Demo {
 
 
 object ArrayDemo{
+
   def match_type(t:Any) = t match {
     case p: Int=>println("It is Integer")
     case p: String=>println("It is String,the content is " + t + " "+ p)
-    case m:Map[_, _] => m.foreach(println)
+    //case m:Map[_, _] => m.foreach(println)
+    case m:Map[k, v] => m.foreach(println)
     case _ => println("Unknown type!!!")
   }
 
   def match_array(arr:Any) = arr match{
-    case Array(0) => println("Array：[" + "0]")
+    case Array(1) => println("Array：[" + "1]")
     case Array(x,y) => println("Array：[" + x + " " + y + "]")
     case Array(0,_*) => println("Array：" + "[0 ...]") //有1个或者多个元素，并且元素开头为0
     case _ => println("something else")

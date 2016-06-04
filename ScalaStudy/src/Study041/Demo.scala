@@ -7,6 +7,7 @@ package Study041
 object Demo {
   def main(args: Array[String]) {
     val list:List[Int] = List(1,2,3,4,5)
+
     val ListAny : List[Any] = list
     println(list.isEmpty)
     println(list.head)

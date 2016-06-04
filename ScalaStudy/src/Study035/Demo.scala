@@ -23,7 +23,7 @@ object Demo {
 
     //                               1                 1
     //                               2                 2       1     2 1
-    println(List.range(1,10) flatMap(i => List.range(1,i) map (j => (i,j))) )
+    println(List.range(1,10) flatMap(i => List.range(1,i) map (j => (i,j)) ) )
 
     var sum = 0
     List(1,2,3,4,5) foreach (sum += _)

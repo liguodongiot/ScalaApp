@@ -6,9 +6,11 @@ package Study040
  * Set Map TreeSet TreeMap
  * Created by liguodong on 2015/11/30.
  */
+
 object Demo {
   def main(args: Array[String]) {
 
+    //Set是不可重复的
     import scala.collection.mutable.Set
     val data = Set.empty[Int]
     data ++= List(1,2,3)
@@ -37,8 +39,6 @@ object Demo {
     import scala.collection.immutable.TreeMap
     val treeMap = TreeMap("Scala"->"Spark","Java"->"Hadoop","C++"->"Qt")
     println(treeMap)
-
-
 
   }
 }

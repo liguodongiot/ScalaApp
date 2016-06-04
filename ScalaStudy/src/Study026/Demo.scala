@@ -4,6 +4,7 @@ package Study026
   * 模式匹配
   * Created by liguodong on 2015/11/20.
   */
+
 object Demo {
   def main(args: Array[String]) {
 
@@ -25,12 +26,20 @@ object Demo {
       case _ => "Not Known Number"
     }
     println(result)
-    //("Spark !" foreach...)等价于("Spark !".foreach...)
+
+    // ("Spark !" foreach...)等价于("Spark !".foreach...)
     "Spark !".foreach{ c => println(
     c match{
       case ' ' => "space"
       case ch => "Char: " + ch
     }
+    )}
+
+    "Spark !" foreach{ c => println(
+      c match{
+        case ' ' => "space"
+        case ch => "Char: " + ch
+      }
     )}
   }
 }

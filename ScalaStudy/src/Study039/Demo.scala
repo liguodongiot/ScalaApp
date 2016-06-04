@@ -50,13 +50,12 @@ object Demo {
     stack.push(1)
     stack.push(2)
     stack.push(3)
+
     println(stack.top)
     println(stack)
+
     println(stack.pop)
     println(stack)
 
-
-
   }
-
 }

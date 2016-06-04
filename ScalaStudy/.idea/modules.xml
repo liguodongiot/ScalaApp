@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QuickStudyScala/QuickStudyScala.iml" filepath="$PROJECT_DIR$/QuickStudyScala/QuickStudyScala.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalaStudy.iml" filepath="$PROJECT_DIR$/ScalaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaTour/ScalaTour.iml" filepath="$PROJECT_DIR$/ScalaTour/ScalaTour.iml" />
     </modules>
   </component>
 </project>

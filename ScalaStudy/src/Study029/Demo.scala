@@ -6,6 +6,7 @@ package Study029
   */
 
 abstract class Person
+
 case class Student(age: Int) extends Person
 case class Worker(age: Int,salary: Double)  extends Person
 case object Shared extends Person
