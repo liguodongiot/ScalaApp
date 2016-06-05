@@ -3,7 +3,7 @@ package Study058
 import scala.io.{Source, BufferedSource}
 
 /**
- * Abstract Type抽象类型
+ * Abstract Type 抽象类型
  * Created by liguodong on 2015/12/9.
  */
 
@@ -27,5 +27,7 @@ object Demo {
     val content = fileReader.read("D:\\temp.txt")
     for (line <- content.getLines()) println(line)
 
+    //java.nio.charset.MalformedInputException: Input length = 1
+    //原因：编码不对
   }
 }

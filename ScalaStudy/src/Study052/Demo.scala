@@ -15,7 +15,7 @@ object Demo {
     //val i:o2.Inner = new o1.Inner
 
     //类型投影o1.Inner和o2.Inner公用的父类Outer#Inner
-    //o1.Inner是Outer#Inner的子类
+    //o1.Inner 是 Outer#Inner 的子类
     val i:Outer#Inner = new o1.Inner
 
   }

@@ -9,18 +9,22 @@ object Demo {
   def main(args: Array[String]) {
 
 
-      class Outer{ outer =>
-        val v1 = "Spark"
-        class Inner{
-          def printString = println(outer.v1)
-        }
+    class Outer{ outer =>
+      val v1 = "Spark"
+      class Inner{
+        def printString = println(outer.v1)
       }
+    }
 
-      val c = new S2 with S1
+    val c = new S2 with S1
 
-      val out = new Outer
-      val in = new out.Inner
-      in.printString
+    val out = new Outer
+    val in = new out.Inner
+    in.printString
+
+    val s = new Self
+    println(s.foo)
+
   }
 }
 

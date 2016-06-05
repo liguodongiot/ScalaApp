@@ -13,6 +13,7 @@ class Pair_Implicits[T:Ordering](val first:T,val second:T){
 }
 
 class Pair_Implicitly[T:Ordering](val first:T,val second:T){
+
   def bigger = if(implicitly[Ordering[T]].compare(first,second)>0) first else second
 }
 
@@ -25,6 +26,7 @@ class Pair_Implicity_Ordered[T:Ordering](val first:T,val second:T){
 
 object Demo {
   def main(args: Array[String]) {
+
     println(new Pair_Implicits(7,9).bigger)
     println(new Pair_Implicitly(7,9).bigger)
 

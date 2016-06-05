@@ -19,7 +19,8 @@ object Param{
 
 object Demo {
   def main(args: Array[String]) {
-    Param.print("Hadoop")("Spark")
+    Param.print("Spark")("Scala")
+
     import Context_Implicats._
     Param.print("Hadoop")
   }

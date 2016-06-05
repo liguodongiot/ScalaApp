@@ -7,7 +7,7 @@ import scala.io.Source
 
 
 /**
- * 隐式转换和隐式参数
+ * 隐式转换
  * Created by liguodong on 2015/12/9.
  */
 
@@ -23,6 +23,7 @@ object Context{
 object Demo {
   def main(args: Array[String]) {
     import Context.file2RichFile
+
     println(new File("D:\\temp.txt").read)//File类没有read方法，将File隐式转换RichFile
 
     //1 to 3
