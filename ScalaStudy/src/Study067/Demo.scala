@@ -24,6 +24,8 @@ object Message_Actor extends Actor{
 object Demo {
 
   def main(args: Array[String]) {
+
+    //Factory method for creating and starting an actor.
     val actor_Message = actor{
       while(true){
         receive{ //isDefinedAt是否为true，如果为true，交给apply方法进行处理，如果false，那么在一个阻塞状态。
@@ -36,16 +38,18 @@ object Demo {
       while(true){
         receive{ //receive偏函数 ，此方法用来接收Actor外部传来的消息
           case msg : Double => println("Double Number from index: "+msg)
-          //case _  => println("Something Unknown.")
+          case _  => println("Something Unknown.")
         }
       }
     }
 
 
     Message_Actor.start()
+
     Message_Actor ! "Hadoop"
 
     actor_Message ! "Spark"
+
     double_Message ! Math.PI
     double_Message ! "Hadoop" //case捕获不到字符串类型
 

@@ -18,7 +18,7 @@ object Main {
 
     //println(self.reactWithin(10000){case x => x})
 
-    println(self.receive{case x => x})
+    println(self.receive{case x => x+" day by day!!!"})
   }
 }
 
