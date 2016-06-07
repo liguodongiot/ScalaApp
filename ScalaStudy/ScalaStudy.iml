@@ -17,5 +17,14 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="scala-sdk-2.10.4" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../jar/nscala-time_2.10-2.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -1,3 +1,6 @@
+1
+Introduction
+Main
 
 1.1. Testing String Equality
 TestStringEqual
@@ -15,3 +18,32 @@ VariableToString
 StringOneCharOneTime
 
 1.6. Finding Patterns in Strings
+PatternString
+
+1.7. Replacing Patterns in Strings
+ReplacePatternString
+
+1.8. Extracting Parts of a String That Match Patterns
+OtherPartPatternString
+
+1.9. Accessing a Character in a String
+AccessCharFromString
+
+1.10. Add Your Own Methods to the String Class
+AddOwnMethodInString
+AddOwnMethodInString2   版本2.10之前的使用方式
+AddOwnMethodInStringTalk  Discussion
+
+2
+Introduction
+Main
+
+
+2.1. Parsing a Number from a String
+
+
+2.2. Converting Between Numeric Types (Casting)
+
+
+
+
