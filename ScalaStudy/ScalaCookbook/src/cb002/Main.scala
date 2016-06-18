@@ -1,9 +1,11 @@
 package cb002
 
+//import com.github.nscala_time.time.StaticDateTime
+
 /**
  * Created by liguodong on 2016/6/7.
  */
-//import com.github.nscala_time.time.Imports._
+
 
 //In Scala, all the numeric types are objects, including Byte,
 // Char, Double, Float, Int, Long, and Short.
@@ -17,10 +19,14 @@ object Main {
     println(Float.MinValue)
 
     println("===~~~===~~~===")
-//    DateTime.now // returns org.joda.time.DateTime
-//    DateTime.now + 2.months
-//    DateTime.nextMonth < DateTime.now + 2.months
-//    (2.hours + 45.minutes + 10.seconds).millis
+//    import com.github.nscala_time.time.Imports._
+//
+//
+//    println(DateTime.now) // returns org.joda.time.DateTime
+//    println(2.months)
+//
+//    //DateTime.nextMonth < DateTime.now + 2.day
+//    println((2.hours + 45.minutes + 10.seconds).millis)
 
 
   }

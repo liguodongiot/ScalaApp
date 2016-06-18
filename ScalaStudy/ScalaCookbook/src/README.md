@@ -40,10 +40,38 @@ Main
 
 
 2.1. Parsing a Number from a String
-
+ParseNumFromString
 
 2.2. Converting Between Numeric Types (Casting)
+ConvertNumType
 
+2.3. Overriding the Default Numeric Type
+OverrideDefaultNum
+
+2.4. Replacements for ++ and −−
+ReplacementsPlusMinus
+
+2.5. Comparing Floating-Point Numbers
+CompareFloatPointNum
+
+2.6. Handling Very Large Numbers
+HandleLargeNum
+
+2.7. Generating Random Numbers
+GenerateRandomNum
+
+2.8. Creating a Range, List, or Array of Numbers
+CreateRangeListArray
+
+2.9. Formatting Numbers and Currency
+FormatNumAndCurrency
+
+
+
+CHAPTER 3 Control Structures
+
+Introduction
+Main
 
 
 

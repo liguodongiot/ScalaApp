@@ -13,6 +13,8 @@ object AddOwnMethodInStringTalk extends App{
   println("1".asBoolean)
 
 
+
+
 }
 
 
@@ -31,5 +33,7 @@ object StringAddMethod{
       case _ => true
     }
 
+
   }
 }
+
