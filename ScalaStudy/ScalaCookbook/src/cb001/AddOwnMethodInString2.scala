@@ -16,6 +16,8 @@ object AddOwnMethodInString2 {
 }
 
 
+
+
 //Using versions of Scala prior to version 2.10
 class StringImprovements(val s: String) {
   def increment = s.map(c => (c + 1).toChar)
