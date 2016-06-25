@@ -73,5 +73,15 @@ CHAPTER 3 Control Structures
 Introduction
 Main
 
+3.1. Looping with for and foreach
+LoopWithForAndForeach
+
+3.2. Using for Loops with Multiple Counters
+
+3.3. Using a for Loop with Embedded if Statements(Guards)
+LoopWithMultipleCounter
+
+3.4. Creating a for Comprehension (for/yield Combination)
+CreateComprehension
 
 
