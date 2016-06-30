@@ -84,4 +84,131 @@ LoopWithMultipleCounter
 3.4. Creating a for Comprehension (for/yield Combination)
 CreateComprehension
 
+3.5. Implementing break and continue
+ImplBreakAndContinue
+
+3.6. Using the if Construct Like a Ternary Operator
+UseIfATernaryOperator
+
+3.7. Using a Match Expression Like a switch Statement Problem
+UseMatchExpression
+
+3.8. Matching Multiple Conditions with One Case Statement（多个条件匹配一个case）
+MatchMultipleConditions
+
+3.9. Assigning the Result of a Match Expression to a Variable（将匹配表达式结果赋值给变量）
+MatchExpressionToVariable
+
+3.10. Accessing the Value of the Default Case in a Match Expression（在匹配表达式中访问默认情况的值）
+AccessDefaultValueInMatchExpression
+
+3.11. Using Pattern Matching in Match Expressions
+UsePatternMatchInMatchExpression
+
+3.12. Using Case Classes in Match Expressions
+UseCaseClassInMatchExpression
+
+3.13. Adding if Expressions (Guards) to Case Statements（在case中增加if表达式）
+AddIfExpressionToCase
+
+3.14. Using a Match Expression Instead of isInstanceOf
+UseMatchInsteadIsInstanceOf
+
+3.15. Working with a List in a Match Expression
+WorkWithListInMatchExpression
+
+3.16. Matching One or More Exceptions with try/catch
+MatchOneOrMoreException
+
+
+3.17. Declaring a Variable Before Using It in a try/catch/finally Block
+DeclareVariableBeforeUseBlock
+
+
+3.18. Creating Your Own Control Structures
+CreateYourOwnControlStructure
+
+
+
+CHAPTER 4 Classes and Properties（类和属性）
+
+Introduction
+
+4.1. Creating a Primary Constructor
+CreatePrimaryConstructor
+
+
+4.2. Controlling the Visibility of Constructor Fields（控制构造函数属性的可见性）
+ControlVisibilityConstructorFields
+
+
+4.3. Defining Auxiliary Constructors(定义辅助构造函数)
+DefineAuxiliaryConstructor
+
+
+
+4.4. Defining a Private Primary Constructor
+DefinePrivatePrimaryConstructor
+
+
+
+4.5. Providing Default Values for Constructor Parameters
+
+
+
+
+
+
+4.6. Overriding Default Accessors and Mutators
+
+
+
+4.7. Preventing Getter and Setter Methods from Being Generated
+
+
+
+4.8. Assigning a Field to a Block or Function
+
+
+
+4.9. Setting Uninitialized var Field Types
+
+
+
+4.10. Handling Constructor Parameters When Extending a Class
+
+
+
+4.11. Calling a Superclass Constructor
+
+
+
+4.12. When to Use an Abstract Class
+
+
+
+4.13. Defining Properties in an Abstract Base Class (or Trait)
+
+
+
+4.14. Generating Boilerplate Code with Case Classes
+
+
+4.15. Defining an equals Method (Object Equality)
+
+
+
+4.16. Creating Inner Classes
+CreateInnerClass
+
+
+
+
+
+
+
+
+
+
+
 

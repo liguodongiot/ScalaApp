@@ -19,7 +19,11 @@ object LoopWithForAndForeach extends App{
 
   val newArray = for (e <- a) yield e.toUpperCase
 
-  print(newArray(0))
+
+  println(newArray(0))
+
+  for(i<-newArray) println(i)
+
 
   val newArray2 = for (e <- a) yield {
     // imagine this requires multiple lines
