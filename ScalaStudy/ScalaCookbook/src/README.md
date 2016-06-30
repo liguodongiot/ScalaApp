@@ -1,69 +1,92 @@
 1
 Introduction
+
 Main
 
 1.1. Testing String Equality
+
 TestStringEqual
 
 1.2. Creating Multiline Strings
+
 CreateMullineString
 
 1.3. Splitting Strings
+
 SplitString
 
 1.4. Substituting Variables into Strings
+
 VariableToString
 
 1.5. Processing a String One Character at a Time
+
 StringOneCharOneTime
 
 1.6. Finding Patterns in Strings
+
 PatternString
 
 1.7. Replacing Patterns in Strings
+
 ReplacePatternString
 
 1.8. Extracting Parts of a String That Match Patterns
+
 OtherPartPatternString
 
 1.9. Accessing a Character in a String
+
 AccessCharFromString
 
 1.10. Add Your Own Methods to the String Class
+
 AddOwnMethodInString
+
 AddOwnMethodInString2   版本2.10之前的使用方式
+
 AddOwnMethodInStringTalk  Discussion
 
 2
 Introduction
+
 Main
 
 
 2.1. Parsing a Number from a String
+
 ParseNumFromString
 
 2.2. Converting Between Numeric Types (Casting)
+
 ConvertNumType
 
 2.3. Overriding the Default Numeric Type
+
 OverrideDefaultNum
 
 2.4. Replacements for ++ and −−
+
 ReplacementsPlusMinus
 
 2.5. Comparing Floating-Point Numbers
+
 CompareFloatPointNum
 
 2.6. Handling Very Large Numbers
+
 HandleLargeNum
 
 2.7. Generating Random Numbers
+
 GenerateRandomNum
 
 2.8. Creating a Range, List, or Array of Numbers
+
 CreateRangeListArray
 
 2.9. Formatting Numbers and Currency
+
 FormatNumAndCurrency
 
 
@@ -71,61 +94,81 @@ FormatNumAndCurrency
 CHAPTER 3 Control Structures
 
 Introduction
+
 Main
 
 3.1. Looping with for and foreach
+
 LoopWithForAndForeach
 
 3.2. Using for Loops with Multiple Counters
 
-3.3. Using a for Loop with Embedded if Statements(Guards)
 LoopWithMultipleCounter
 
+3.3. Using a for Loop with Embedded if Statements(Guards)
+
+LoopWithEmbeddedStatements
+
 3.4. Creating a for Comprehension (for/yield Combination)
+
 CreateComprehension
 
 3.5. Implementing break and continue
+
 ImplBreakAndContinue
 
 3.6. Using the if Construct Like a Ternary Operator
+
 UseIfATernaryOperator
 
 3.7. Using a Match Expression Like a switch Statement Problem
+
 UseMatchExpression
 
 3.8. Matching Multiple Conditions with One Case Statement（多个条件匹配一个case）
+
 MatchMultipleConditions
 
 3.9. Assigning the Result of a Match Expression to a Variable（将匹配表达式结果赋值给变量）
+
 MatchExpressionToVariable
 
 3.10. Accessing the Value of the Default Case in a Match Expression（在匹配表达式中访问默认情况的值）
+
 AccessDefaultValueInMatchExpression
 
 3.11. Using Pattern Matching in Match Expressions
+
 UsePatternMatchInMatchExpression
 
 3.12. Using Case Classes in Match Expressions
+
 UseCaseClassInMatchExpression
 
 3.13. Adding if Expressions (Guards) to Case Statements（在case中增加if表达式）
+
 AddIfExpressionToCase
 
 3.14. Using a Match Expression Instead of isInstanceOf
+
 UseMatchInsteadIsInstanceOf
 
 3.15. Working with a List in a Match Expression
+
 WorkWithListInMatchExpression
 
 3.16. Matching One or More Exceptions with try/catch
+
 MatchOneOrMoreException
 
 
 3.17. Declaring a Variable Before Using It in a try/catch/finally Block
+
 DeclareVariableBeforeUseBlock
 
 
 3.18. Creating Your Own Control Structures
+
 CreateYourOwnControlStructure
 
 
@@ -135,33 +178,35 @@ CHAPTER 4 Classes and Properties（类和属性）
 Introduction
 
 4.1. Creating a Primary Constructor
+
 CreatePrimaryConstructor
 
 
 4.2. Controlling the Visibility of Constructor Fields（控制构造函数属性的可见性）
+
 ControlVisibilityConstructorFields
 
 
 4.3. Defining Auxiliary Constructors(定义辅助构造函数)
+
 DefineAuxiliaryConstructor
 
 
 
 4.4. Defining a Private Primary Constructor
+
 DefinePrivatePrimaryConstructor
 
 
 
-4.5. Providing Default Values for Constructor Parameters
+4.5. Providing Default Values for Constructor Parameters（为构造函数参数提供默认值）
+
+ProvideDefaultValueForConstructParam
 
 
+4.6. Overriding Default Accessors and Mutators（重写默认的访问器和修改器 getter or setter）
 
-
-
-
-4.6. Overriding Default Accessors and Mutators
-
-
+OverrideDefaultAccessorsMutators
 
 4.7. Preventing Getter and Setter Methods from Being Generated
 
