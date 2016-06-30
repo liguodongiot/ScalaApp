@@ -27,6 +27,19 @@ object OverrideDefaultAccessorsMutators extends App{
   println(p.name) // getter
 
 
+  println("============================")
+
+  class Stock (var symbol: String)
+
+  //$ javap Stock
+  //  public class Stock extends java.lang.Object{
+  //    public java.lang.String symbol();
+  //    public void symbol_$eq(java.lang.String);
+  //    public Stock(java.lang.String);
+  //  }
+
+  //symbol_$eq  <====> symbol_=
+  //stock.symbol = "GOOG" <====> stock.symbol_$eq("GOOG")
 
 }
 

@@ -177,7 +177,7 @@ CHAPTER 4 Classes and Properties（类和属性）
 
 Introduction
 
-4.1. Creating a Primary Constructor
+4.1. Creating a Primary Constructor（创建一个主构造器）
 
 CreatePrimaryConstructor
 
@@ -210,47 +210,53 @@ OverrideDefaultAccessorsMutators
 
 4.7. Preventing Getter and Setter Methods from Being Generated
 
+**PreventGetSetGenerated**
 
 
-4.8. Assigning a Field to a Block or Function
+4.8. Assigning a Field to a Block or Function（块或函数指定一个属性）
 
+**AssignFieldBlockFunction**
 
+4.9. Setting Uninitialized var Field Types（设置初始化变量类型）
 
-4.9. Setting Uninitialized var Field Types
-
-
+**SetUninitializedField**
 
 4.10. Handling Constructor Parameters When Extending a Class
 
-
+****
 
 4.11. Calling a Superclass Constructor
 
-
+****
 
 4.12. When to Use an Abstract Class
 
-
+****
 
 4.13. Defining Properties in an Abstract Base Class (or Trait)
 
-
+****
 
 4.14. Generating Boilerplate Code with Case Classes
 
+****
 
 4.15. Defining an equals Method (Object Equality)
 
-
+****
 
 4.16. Creating Inner Classes
-CreateInnerClass
+
+**CreateInnerClass**
 
 
 
 
+****
 
+****
 
+****
 
 
 
