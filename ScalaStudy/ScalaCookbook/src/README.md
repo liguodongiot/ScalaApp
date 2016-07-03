@@ -223,27 +223,27 @@ OverrideDefaultAccessorsMutators
 
 4.10. Handling Constructor Parameters When Extending a Class
 
-****
+**HandleConstructParam**
 
 4.11. Calling a Superclass Constructor
 
-****
+**CallSuperclassConstructor**
 
 4.12. When to Use an Abstract Class
 
-****
+**UseAbstractClass**
 
 4.13. Defining Properties in an Abstract Base Class (or Trait)
 
-****
+**DefinePropertiesAbstractBaseClass**
 
-4.14. Generating Boilerplate Code with Case Classes
+4.14. Generating Boilerplate Code with Case Classes（Case Class自动生成样板代码）
 
-****
+**GenerateBoilerplateCode**
 
 4.15. Defining an equals Method (Object Equality)
 
-****
+**DefineEqualMethod**
 
 4.16. Creating Inner Classes
 
