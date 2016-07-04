@@ -16,8 +16,10 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
-.idea/
-*.iml
-*.class
-target
-out
+ScalaStudy/.idea/
+ScalaStudy/*.iml
+ScalaStudy/*.class
+ScalaStudy/target
+ScalaStudy/out
+
+StudyAkka/.idea/

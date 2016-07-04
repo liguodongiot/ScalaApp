@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ScalaCookbook/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ScalaTour/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -17,5 +19,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="scala-sdk-2.10.4" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.10.4-RC3" level="application" />
   </component>
 </module>

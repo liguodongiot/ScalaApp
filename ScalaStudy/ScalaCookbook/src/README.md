@@ -250,6 +250,18 @@ OverrideDefaultAccessorsMutators
 **CreateInnerClass**
 
 
+CHAPTER 5 Methods
+
+Introduction
+
+****
+
+5.1. Controlling Method Scope
+
+****
+
+****
+
 
 
 ****
@@ -257,6 +269,12 @@ OverrideDefaultAccessorsMutators
 ****
 
 ****
+
+****
+
+****
+
+
 
 
 
