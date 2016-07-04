@@ -288,7 +288,7 @@ Introduction
 
 **DeclareMethodThrowException**
 
-5.9. Supporting a Fluent Style of Programming
+5.9. Supporting a Fluent Style of Programming（流畅的编程风格 method chaining ）
 
 **SupportFluentStyleProgram**
 

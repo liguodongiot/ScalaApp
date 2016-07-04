@@ -6,7 +6,7 @@ import javax.sound.sampled.{UnsupportedAudioFileException, LineUnavailableExcept
 /**
  * Created by liguodong on 2016/7/4.
  */
-object DeclareMethodThrowException {
+object DeclareMethodThrowException extends App{
 
 
   //To declare that one exception can be thrown
@@ -23,4 +23,11 @@ object DeclareMethodThrowException {
   def playSoundFileWithJavaAudio {
     // exception throwing code here ...
   }
+
+  def boom { throw new Exception }
+
+  println("Before boom")
+  boom
+  // this line is never reached
+  println("After boom")
 }
