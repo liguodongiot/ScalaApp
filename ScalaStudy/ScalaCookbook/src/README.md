@@ -11,7 +11,7 @@ TestStringEqual
 
 CreateMullineString
 
-1.3. Splitting Strings
+1.3. Splitting Strings（分割字符串）
 
 SplitString
 
@@ -250,20 +250,53 @@ OverrideDefaultAccessorsMutators
 **CreateInnerClass**
 
 
-CHAPTER 5 Methods
+CHAPTER 5 Methods（方法）
 
 Introduction
 
+**Main**
+
+5.1. Controlling Method Scope（控制方法的范围）
+
+**ControlMethodScope**
+
+5.2. Calling a Method on a Superclass
+
+**CallMethodSuperclass**
+
+5.3. Setting Default Values for Method Parameters（为方法参数设置默认值）
+
+**SetDefaultValueMethodParam**
+
+5.4. Using Parameter Names When Calling a Method（通过参数名调用方法）
+
+**UseParamNameCallMethod**
+
+5.5. Defining a Method That Returns Multiple Items(Tuples)（定义一个方法返回元组）
+
+**DefineMethodReturnMultipleItem**
+
+5.6. Forcing Callers to Leave Parentheses off Accessor Methods（去除存取器方法的括号）
+
+**ForceCallAccessMethod**
+
+5.7. Creating Methods That Take Variable-Argument Fields（创建可变参的方法）
+
+**CreateMethodTakeField**
+
+5.8. Declaring That a Method Can Throw an Exception（声明一个方法可以抛出异常）
+
+**DeclareMethodThrowException**
+
+5.9. Supporting a Fluent Style of Programming
+
+**SupportFluentStyleProgram**
+
+Chapter 6. Objects
+
+Introduction
 ****
 
-5.1. Controlling Method Scope
-
-****
-
-****
-
-
-
 ****
 
 ****
@@ -273,10 +306,6 @@ Introduction
 ****
 
 ****
-
-
-
-
 
 
 
