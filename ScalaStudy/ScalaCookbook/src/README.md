@@ -1,4 +1,5 @@
-1
+### Chapter 1. Strings
+
 Introduction
 
 Main
@@ -47,7 +48,8 @@ AddOwnMethodInString2   版本2.10之前的使用方式
 
 AddOwnMethodInStringTalk  Discussion
 
-2
+### Chapter 2. Numbers
+
 Introduction
 
 Main
@@ -91,7 +93,7 @@ FormatNumAndCurrency
 
 
 
-CHAPTER 3 Control Structures
+### CHAPTER 3 Control Structures
 
 Introduction
 
@@ -173,7 +175,7 @@ CreateYourOwnControlStructure
 
 
 
-CHAPTER 4 Classes and Properties（类和属性）
+### CHAPTER 4 Classes and Properties（类和属性）
 
 Introduction
 
@@ -250,7 +252,7 @@ OverrideDefaultAccessorsMutators
 **CreateInnerClass**
 
 
-CHAPTER 5 Methods（方法）
+### CHAPTER 5 Methods（方法）
 
 Introduction
 
@@ -292,9 +294,53 @@ Introduction
 
 **SupportFluentStyleProgram**
 
-Chapter 6. Objects
+### Chapter 6. Objects
 
 Introduction
+
+****
+
+6.1. Object Casting
+
+**ObjectCast**
+
+6.2. The Scala Equivalent of Java’s .class
+
+****
+
+6.3. Determining the Class of an Object
+
+****
+
+6.4. Launching an Application with an Object
+
+****
+
+6.5. Creating Singletons with object
+
+****
+
+6.6. Creating Static Members with Companion Objects
+
+****
+
+6.7. Putting Common Code in Package Objects
+
+****
+
+6.8. Creating Object Instances Without Using the new Keyword
+
+****
+
+6.9. Implement the Factory Method in Scala with apply
+
+****
+
+
+### CHAPTER 7 Packaging and Imports
+
+Introduction
+
 ****
 
 ****
@@ -307,6 +353,31 @@ Introduction
 
 ****
 
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
 
 
+****
 
+****
+
+****
+
+****
+
+****
+
+****
