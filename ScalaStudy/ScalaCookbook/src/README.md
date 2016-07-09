@@ -306,27 +306,27 @@ Introduction
 
 6.2. The Scala Equivalent of Java’s .class
 
-****
+**ScalaEquivalentJavaClass**
 
 6.3. Determining the Class of an Object
 
-****
+**DeterminingClassOfObject**
 
 6.4. Launching an Application with an Object
 
-****
+** LaunchApplicationWithObject**
 
 6.5. Creating Singletons with object
 
-****
+**CreateSingletonObject**
 
-6.6. Creating Static Members with Companion Objects
+6.6. Creating Static Members with Companion Objects（通过伴生对象创建静态成员）
 
-****
+** CreateStaticMembersObject**
 
 6.7. Putting Common Code in Package Objects
 
-****
+**PutCodePackageObj**
 
 6.8. Creating Object Instances Without Using the new Keyword
 
