@@ -324,17 +324,17 @@ Introduction
 
 ** CreateStaticMembersObject**
 
-6.7. Putting Common Code in Package Objects
+6.7. Putting Common Code in Package Objects（包对象）
 
 **PutCodePackageObj**
 
-6.8. Creating Object Instances Without Using the new Keyword
+6.8. Creating Object Instances Without Using the new Keyword（创建对象实例不用new关键字）
 
-****
+**CreateObjectWithoutKeyword**
 
-6.9. Implement the Factory Method in Scala with apply
+6.9. Implement the Factory Method in Scala with apply（通过apply实现工厂方法）
 
-****
+**ImplementFactoryMethod **
 
 
 ### CHAPTER 7 Packaging and Imports
@@ -343,7 +343,53 @@ Introduction
 
 ****
 
+7.1. Packaging with the Curly Braces Style Notation
+
+
 ****
+
+7.2. Importing One or More Members
+
+****
+
+7.3. Renaming Members on Import
+
+****
+
+7.4. Hiding a Class During the Import Process
+
+****
+
+7.5. Using Static Imports
+
+****
+
+7.6. Using Import Statements Anywhere
+
+****
+
+### CHAPTER 8 Traits
+
+Introduction
+
+****
+
+8.1. Using a Trait as an Interface
+
+****
+
+
+
+****
+
+****
+
+****
+
+****
+
+****
+
 
 ****
 
@@ -357,7 +403,10 @@ Introduction
 
 ****
 
+
+
 ****
+
 
 ****
 
@@ -366,6 +415,43 @@ Introduction
 ****
 
 ****
+
+****
+
+****
+
+
+****
+
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+
+****
+
+
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
 
 ****
 
