@@ -341,32 +341,30 @@ Introduction
 
 Introduction
 
-****
-
 7.1. Packaging with the Curly Braces Style Notation
 
 
-****
+**PackageCurlyBracesStyle**
 
 7.2. Importing One or More Members
 
-****
+**ImportOneMoreMembers**
 
-7.3. Renaming Members on Import
+7.3. Renaming Members on Import（import时重命名里面的成员）
 
-****
+**RenameMembersOnImport**
 
 7.4. Hiding a Class During the Import Process
 
-****
+**HideClassDureImportProcess**
 
 7.5. Using Static Imports
 
-****
+**UseStaticImports**
 
 7.6. Using Import Statements Anywhere
 
-****
+**UseImportStatementsAnywhere**
 
 ### CHAPTER 8 Traits
 
@@ -378,22 +376,35 @@ Introduction
 
 ****
 
-
-
-****
+8.2. Using Abstract and Concrete Fields in Traits
 
 ****
 
-****
+8.3. Using a Trait Like an Abstract Class
 
 ****
 
-****
-
-
-****
+8.4. Using Traits as Simple Mixins
 
 ****
+
+8.5. Limiting Which Classes Can Use a Trait by Inheritance
+
+****
+
+8.6. Marking Traits So They Can Only Be Used by Subclasses of a Certain Type
+
+****
+
+8.7. Ensuring a Trait Can Only Be Added to a Type That Has a Specific Method
+
+****
+
+8.8. Adding a Trait to an Object Instance
+
+****
+
+8.9. Extending a Java Interface Like a Trait
 
 ****
 
