@@ -372,41 +372,41 @@ Introduction
 
 ****
 
-8.1. Using a Trait as an Interface
+8.1. Using a Trait as an Interface（使用特质作为一个接口）
 
-****
+**UseTraitAsInterface**
 
-8.2. Using Abstract and Concrete Fields in Traits
+8.2. Using Abstract and Concrete Fields in Traits（在接口中使用抽象和具体的属性）
 
-****
+**UseAbstractConcreteFieldTraits**
 
-8.3. Using a Trait Like an Abstract Class
+8.3. Using a Trait Like an Abstract Class（使用特质类似于抽象类）
 
-****
+**UseTraitLikeAbstractClass**
 
-8.4. Using Traits as Simple Mixins
+8.4. Using Traits as Simple Mixins（特质混入）
 
-****
+**UseTraitsAsMixins**
 
-8.5. Limiting Which Classes Can Use a Trait by Inheritance
+8.5. Limiting Which Classes Can Use a Trait by Inheritance（通过继承限制哪一个类使用特质）
 
-****
+**LimitClassUseTrait**
 
-8.6. Marking Traits So They Can Only Be Used by Subclasses of a Certain Type
+8.6. Marking Traits So They Can Only Be Used by Subclasses of a Certain Type（标记特质仅仅只被子类确定的类型使用）
 
-****
+**MarkTraitBySubclasses**
 
 8.7. Ensuring a Trait Can Only Be Added to a Type That Has a Specific Method
 
-****
+**EnsureTraitAddedType**
 
 8.8. Adding a Trait to an Object Instance
 
-****
+**AddTraitToObjectInstance**
 
 8.9. Extending a Java Interface Like a Trait
 
-****
+**ExtendJavaInterfaceLikeTrait**
 
 ****
 
