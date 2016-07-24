@@ -367,9 +367,7 @@ OverrideDefaultAccessorsMutators
 
 ### CHAPTER 8 Traits
 
-Introduction
-
-****
+#### Introduction
 
 #### 8.1. Using a Trait as an Interface（使用特质作为一个接口）
 
@@ -502,24 +500,23 @@ A comparison to Java
 #### 10.11. Using zipWithIndex or zip to Create Loop Counters（使用zipWithIndex或者zip创建一个循环计数器）
 **UseZipCreateLoopCounters**
 
-
 #### 10.12. Using Iterators
 **UseIterators**
 
-#### 10.13. Transforming One Collection to Another with for/yield
+#### 10.13. Transforming One Collection to Another with for/yield（通过for/yield转换一个集合为另一个）
 **TransformOneCollectionForYield**
 
-#### 10.14. Transforming One Collection to Another with map
+#### 10.14. Transforming One Collection to Another with map（通过map转换一个集合为另一个）
 **TransformOneCollectionAnotherMap**
 
-#### 10.15. Flattening a List of Lists with flatten
+#### 10.15. Flattening a Lsit of Lists with flatten（使多个List变成一个List）
 **FlatList**
 
-#### 10.16. Combining map and flatten with flatMap
-****
+#### 10.16. Combining map and flatten with flatMap（结合map和flat等同于flatMap）
+**CombineMapFlatten**
 
-#### 10.17. Using filter to Filter a Collection
-****
+#### 10.17. Using filter to Filter a Collection（集合中使用filter过滤）
+**UseFliterInCollection**
 
 #### 10.18. Extracting a Sequence of Elements from a Collection
 ****
