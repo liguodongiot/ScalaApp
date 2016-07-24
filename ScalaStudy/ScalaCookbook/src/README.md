@@ -1,46 +1,46 @@
 ### Chapter 1. Strings
 
-Introduction
+#### Introduction
 
 Main
 
-1.1. Testing String Equality
+#### 1.1. Testing String Equality
 
 TestStringEqual
 
-1.2. Creating Multiline Strings
+#### 1.2. Creating Multiline Strings
 
 CreateMullineString
 
-1.3. Splitting Strings（分割字符串）
+#### 1.3. Splitting Strings（分割字符串）
 
 SplitString
 
-1.4. Substituting Variables into Strings
+#### 1.4. Substituting Variables into Strings
 
 VariableToString
 
-1.5. Processing a String One Character at a Time
+#### 1.5. Processing a String One Character at a Time
 
 StringOneCharOneTime
 
-1.6. Finding Patterns in Strings
+#### 1.6. Finding Patterns in Strings
 
 PatternString
 
-1.7. Replacing Patterns in Strings
+#### 1.7. Replacing Patterns in Strings
 
 ReplacePatternString
 
-1.8. Extracting Parts of a String That Match Patterns
+#### 1.8. Extracting Parts of a String That Match Patterns
 
 OtherPartPatternString
 
-1.9. Accessing a Character in a String
+#### 1.9. Accessing a Character in a String
 
 AccessCharFromString
 
-1.10. Add Your Own Methods to the String Class
+#### 1.10. Add Your Own Methods to the String Class
 
 AddOwnMethodInString
 
@@ -50,44 +50,43 @@ AddOwnMethodInStringTalk  Discussion
 
 ### Chapter 2. Numbers
 
-Introduction
+#### Introduction
 
 Main
 
-
-2.1. Parsing a Number from a String
+#### 2.1. Parsing a Number from a String
 
 ParseNumFromString
 
-2.2. Converting Between Numeric Types (Casting)
+#### 2.2. Converting Between Numeric Types (Casting)
 
 ConvertNumType
 
-2.3. Overriding the Default Numeric Type
+#### 2.3. Overriding the Default Numeric Type
 
 OverrideDefaultNum
 
-2.4. Replacements for ++ and −−
+#### 2.4. Replacements for ++ and −−
 
 ReplacementsPlusMinus
 
-2.5. Comparing Floating-Point Numbers
+#### 2.5. Comparing Floating-Point Numbers
 
 CompareFloatPointNum
 
-2.6. Handling Very Large Numbers
+#### 2.6. Handling Very Large Numbers
 
 HandleLargeNum
 
-2.7. Generating Random Numbers
+#### 2.7. Generating Random Numbers
 
 GenerateRandomNum
 
-2.8. Creating a Range, List, or Array of Numbers
+#### 2.8. Creating a Range, List, or Array of Numbers
 
 CreateRangeListArray
 
-2.9. Formatting Numbers and Currency
+#### 2.9. Formatting Numbers and Currency
 
 FormatNumAndCurrency
 
@@ -99,77 +98,77 @@ Introduction
 
 Main
 
-3.1. Looping with for and foreach
+#### 3.1. Looping with for and foreach
 
 LoopWithForAndForeach
 
-3.2. Using for Loops with Multiple Counters
+#### 3.2. Using for Loops with Multiple Counters
 
 LoopWithMultipleCounter
 
-3.3. Using a for Loop with Embedded if Statements(Guards)
+#### 3.3. Using a for Loop with Embedded if Statements(Guards)
 
 LoopWithEmbeddedStatements
 
-3.4. Creating a for Comprehension (for/yield Combination)
+#### 3.4. Creating a for Comprehension (for/yield Combination)
 
 CreateComprehension
 
-3.5. Implementing break and continue
+#### 3.5. Implementing break and continue
 
 ImplBreakAndContinue
 
-3.6. Using the if Construct Like a Ternary Operator
+#### 3.6. Using the if Construct Like a Ternary Operator
 
 UseIfATernaryOperator
 
-3.7. Using a Match Expression Like a switch Statement Problem
+#### 3.7. Using a Match Expression Like a switch Statement Problem
 
 UseMatchExpression
 
-3.8. Matching Multiple Conditions with One Case Statement（多个条件匹配一个case）
+#### 3.8. Matching Multiple Conditions with One Case Statement（多个条件匹配一个case）
 
 MatchMultipleConditions
 
-3.9. Assigning the Result of a Match Expression to a Variable（将匹配表达式结果赋值给变量）
+#### 3.9. Assigning the Result of a Match Expression to a Variable（将匹配表达式结果赋值给变量）
 
 MatchExpressionToVariable
 
-3.10. Accessing the Value of the Default Case in a Match Expression（在匹配表达式中访问默认情况的值）
+#### 3.10. Accessing the Value of the Default Case in a Match Expression（在匹配表达式中访问默认情况的值）
 
 AccessDefaultValueInMatchExpression
 
-3.11. Using Pattern Matching in Match Expressions
+#### 3.11. Using Pattern Matching in Match Expressions
 
 UsePatternMatchInMatchExpression
 
-3.12. Using Case Classes in Match Expressions
+#### 3.12. Using Case Classes in Match Expressions
 
 UseCaseClassInMatchExpression
 
-3.13. Adding if Expressions (Guards) to Case Statements（在case中增加if表达式）
+#### 3.13. Adding if Expressions (Guards) to Case Statements（在case中增加if表达式）
 
 AddIfExpressionToCase
 
-3.14. Using a Match Expression Instead of isInstanceOf
+#### 3.14. Using a Match Expression Instead of isInstanceOf
 
 UseMatchInsteadIsInstanceOf
 
-3.15. Working with a List in a Match Expression
+#### 3.15. Working with a List in a Match Expression
 
 WorkWithListInMatchExpression
 
-3.16. Matching One or More Exceptions with try/catch
+#### 3.16. Matching One or More Exceptions with try/catch
 
 MatchOneOrMoreException
 
 
-3.17. Declaring a Variable Before Using It in a try/catch/finally Block
+#### 3.17. Declaring a Variable Before Using It in a try/catch/finally Block
 
 DeclareVariableBeforeUseBlock
 
 
-3.18. Creating Your Own Control Structures
+#### 3.18. Creating Your Own Control Structures
 
 CreateYourOwnControlStructure
 
@@ -177,192 +176,192 @@ CreateYourOwnControlStructure
 
 ### CHAPTER 4 Classes and Properties（类和属性）
 
-Introduction
+#### Introduction
 
-4.1. Creating a Primary Constructor（创建一个主构造器）
+#### 4.1. Creating a Primary Constructor（创建一个主构造器）
 
 CreatePrimaryConstructor
 
 
-4.2. Controlling the Visibility of Constructor Fields（控制构造函数属性的可见性）
+#### 4.2. Controlling the Visibility of Constructor Fields（控制构造函数属性的可见性）
 
 ControlVisibilityConstructorFields
 
 
-4.3. Defining Auxiliary Constructors(定义辅助构造函数)
+#### 4.3. Defining Auxiliary Constructors(定义辅助构造函数)
 
 DefineAuxiliaryConstructor
 
 
 
-4.4. Defining a Private Primary Constructor
+#### 4.4. Defining a Private Primary Constructor
 
 DefinePrivatePrimaryConstructor
 
 
 
-4.5. Providing Default Values for Constructor Parameters（为构造函数参数提供默认值）
+#### 4.5. Providing Default Values for Constructor Parameters（为构造函数参数提供默认值）
 
 ProvideDefaultValueForConstructParam
 
 
-4.6. Overriding Default Accessors and Mutators（重写默认的访问器和修改器 getter or setter）
+#### 4.6. Overriding Default Accessors and Mutators（重写默认的访问器和修改器 getter or setter）
 
 OverrideDefaultAccessorsMutators
 
-4.7. Preventing Getter and Setter Methods from Being Generated
+#### 4.7. Preventing Getter and Setter Methods from Being Generated
 
 **PreventGetSetGenerated**
 
 
-4.8. Assigning a Field to a Block or Function（块或函数指定一个属性）
+#### 4.8. Assigning a Field to a Block or Function（块或函数指定一个属性）
 
 **AssignFieldBlockFunction**
 
-4.9. Setting Uninitialized var Field Types（设置初始化变量类型）
+#### 4.9. Setting Uninitialized var Field Types（设置初始化变量类型）
 
 **SetUninitializedField**
 
-4.10. Handling Constructor Parameters When Extending a Class
+#### 4.10. Handling Constructor Parameters When Extending a Class
 
 **HandleConstructParam**
 
-4.11. Calling a Superclass Constructor
+#### 4.11. Calling a Superclass Constructor
 
 **CallSuperclassConstructor**
 
-4.12. When to Use an Abstract Class
+#### 4.12. When to Use an Abstract Class
 
 **UseAbstractClass**
 
-4.13. Defining Properties in an Abstract Base Class (or Trait)
+#### 4.13. Defining Properties in an Abstract Base Class (or Trait)
 
 **DefinePropertiesAbstractBaseClass**
 
-4.14. Generating Boilerplate Code with Case Classes（Case Class自动生成样板代码）
+#### 4.14. Generating Boilerplate Code with Case Classes（Case Class自动生成样板代码）
 
 **GenerateBoilerplateCode**
 
-4.15. Defining an equals Method (Object Equality)
+#### 4.15. Defining an equals Method (Object Equality)
 
 **DefineEqualMethod**
 
-4.16. Creating Inner Classes
+#### 4.16. Creating Inner Classes
 
 **CreateInnerClass**
 
 
 ### CHAPTER 5 Methods（方法）
 
-Introduction
+#### Introduction
 
 **Main**
 
-5.1. Controlling Method Scope（控制方法的范围）
+#### 5.1. Controlling Method Scope（控制方法的范围）
 
 **ControlMethodScope**
 
-5.2. Calling a Method on a Superclass
+#### 5.2. Calling a Method on a Superclass
 
 **CallMethodSuperclass**
 
-5.3. Setting Default Values for Method Parameters（为方法参数设置默认值）
+#### 5.3. Setting Default Values for Method Parameters（为方法参数设置默认值）
 
 **SetDefaultValueMethodParam**
 
-5.4. Using Parameter Names When Calling a Method（通过参数名调用方法）
+#### 5.4. Using Parameter Names When Calling a Method（通过参数名调用方法）
 
 **UseParamNameCallMethod**
 
-5.5. Defining a Method That Returns Multiple Items(Tuples)（定义一个方法返回元组）
+#### 5.5. Defining a Method That Returns Multiple Items(Tuples)（定义一个方法返回元组）
 
 **DefineMethodReturnMultipleItem**
 
-5.6. Forcing Callers to Leave Parentheses off Accessor Methods（去除存取器方法的括号）
+#### 5.6. Forcing Callers to Leave Parentheses off Accessor Methods（去除存取器方法的括号）
 
 **ForceCallAccessMethod**
 
-5.7. Creating Methods That Take Variable-Argument Fields（创建可变参的方法）
+#### 5.7. Creating Methods That Take Variable-Argument Fields（创建可变参的方法）
 
 **CreateMethodTakeField**
 
-5.8. Declaring That a Method Can Throw an Exception（声明一个方法可以抛出异常）
+#### 5.8. Declaring That a Method Can Throw an Exception（声明一个方法可以抛出异常）
 
 **DeclareMethodThrowException**
 
-5.9. Supporting a Fluent Style of Programming（流畅的编程风格 method chaining ）
+#### 5.9. Supporting a Fluent Style of Programming（流畅的编程风格 method chaining ）
 
 **SupportFluentStyleProgram**
 
 ### Chapter 6. Objects
 
-Introduction
+#### Introduction
 
 ****
 
-6.1. Object Casting
+#### 6.1. Object Casting
 
 **ObjectCast**
 
-6.2. The Scala Equivalent of Java’s .class
+#### 6.2. The Scala Equivalent of Java’s .class
 
 **ScalaEquivalentJavaClass**
 
-6.3. Determining the Class of an Object
+#### 6.3. Determining the Class of an Object
 
 **DeterminingClassOfObject**
 
-6.4. Launching an Application with an Object
+#### 6.4. Launching an Application with an Object
 
 ** LaunchApplicationWithObject**
 
-6.5. Creating Singletons with object
+#### 6.5. Creating Singletons with object
 
 **CreateSingletonObject**
 
-6.6. Creating Static Members with Companion Objects（通过伴生对象创建静态成员）
+#### 6.6. Creating Static Members with Companion Objects（通过伴生对象创建静态成员）
 
 ** CreateStaticMembersObject**
 
-6.7. Putting Common Code in Package Objects（包对象）
+#### 6.7. Putting Common Code in Package Objects（包对象）
 
 **PutCodePackageObj**
 
-6.8. Creating Object Instances Without Using the new Keyword（创建对象实例不用new关键字）
+#### 6.8. Creating Object Instances Without Using the new Keyword（创建对象实例不用new关键字）
 
 **CreateObjectWithoutKeyword**
 
-6.9. Implement the Factory Method in Scala with apply（通过apply实现工厂方法）
+#### 6.9. Implement the Factory Method in Scala with apply（通过apply实现工厂方法）
 
 **ImplementFactoryMethod **
 
 
 ### CHAPTER 7 Packaging and Imports
 
-Introduction
+#### Introduction
 
-7.1. Packaging with the Curly Braces Style Notation
+#### 7.1. Packaging with the Curly Braces Style Notation
 
 
 **PackageCurlyBracesStyle**
 
-7.2. Importing One or More Members
+#### 7.2. Importing One or More Members
 
 **ImportOneMoreMembers**
 
-7.3. Renaming Members on Import（import时重命名里面的成员）
+#### 7.3. Renaming Members on Import（import时重命名里面的成员）
 
 **RenameMembersOnImport**
 
-7.4. Hiding a Class During the Import Process
+#### 7.4. Hiding a Class During the Import Process
 
 **HideClassDureImportProcess**
 
-7.5. Using Static Imports
+#### 7.5. Using Static Imports
 
 **UseStaticImports**
 
-7.6. Using Import Statements Anywhere
+#### 7.6. Using Import Statements Anywhere
 
 **UseImportStatementsAnywhere**
 
@@ -372,154 +371,176 @@ Introduction
 
 ****
 
-8.1. Using a Trait as an Interface（使用特质作为一个接口）
+#### 8.1. Using a Trait as an Interface（使用特质作为一个接口）
 
 **UseTraitAsInterface**
 
-8.2. Using Abstract and Concrete Fields in Traits（在接口中使用抽象和具体的属性）
+#### 8.2. Using Abstract and Concrete Fields in Traits（在接口中使用抽象和具体的属性）
 
 **UseAbstractConcreteFieldTraits**
 
-8.3. Using a Trait Like an Abstract Class（使用特质类似于抽象类）
+#### 8.3. Using a Trait Like an Abstract Class（使用特质类似于抽象类）
 
 **UseTraitLikeAbstractClass**
 
-8.4. Using Traits as Simple Mixins（特质混入）
+#### 8.4. Using Traits as Simple Mixins（特质混入）
 
 **UseTraitsAsMixins**
 
-8.5. Limiting Which Classes Can Use a Trait by Inheritance（通过继承限制哪一个类使用特质）
+#### 8.5. Limiting Which Classes Can Use a Trait by Inheritance（通过继承限制哪一个类使用特质）
 
 **LimitClassUseTrait**
 
-8.6. Marking Traits So They Can Only Be Used by Subclasses of a Certain Type（标记特质仅仅只被子类确定的类型使用）
+#### 8.6. Marking Traits So They Can Only Be Used by Subclasses of a Certain Type（标记特质仅仅只被子类确定的类型使用）
 
 **MarkTraitBySubclasses**
 
-8.7. Ensuring a Trait Can Only Be Added to a Type That Has a Specific Method
+#### 8.7. Ensuring a Trait Can Only Be Added to a Type That Has a Specific Method
 
 **EnsureTraitAddedType**
 
-8.8. Adding a Trait to an Object Instance
+#### 8.8. Adding a Trait to an Object Instance
 
 **AddTraitToObjectInstance**
 
-8.9. Extending a Java Interface Like a Trait
+#### 8.9. Extending a Java Interface Like a Trait
 
 **ExtendJavaInterfaceLikeTrait**
 
 
 ###Chapter 9. Functional Programming
 
-Introduction
+#### Introduction
+
 **Main**
 
-9.1. Using Function Literals (Anonymous Functions)（匿名函数）
+#### 9.1. Using Function Literals (Anonymous Functions)（匿名函数）
+
 **UseFunctionLiterals**
 
-9.2. Using Functions as Variables（使用函数作为变量）
+#### 9.2. Using Functions as Variables（使用函数作为变量）
+
 **UseFunctionVariables**
 
-9.3. Defining a Method That Accepts a Simple Function Parameter（定义一个接受简单函数作为参数的方法）
+#### 9.3. Defining a Method That Accepts a Simple Function Parameter（定义一个接受简单函数作为参数的方法）
+
 **DefineMethodAcceptFunctionParam**
 
-9.4. More Complex Functions（更加复杂的函数作为参数的方法）
+#### 9.4. More Complex Functions（更加复杂的函数作为参数的方法）
+
 **MoreComplexFunctions**
 
-9.5. Using Closures（闭包）
+#### 9.5. Using Closures（闭包）
+
 **UseClosures**
 
 A comparison to Java
+
 **SimulatedClosure**
 
-9.6. Using Partially Applied Functions
+#### 9.6. Using Partially Applied Functions
+
 **UsePartiallyAppliedFunctions**
 
-9.7. Creating a Function That Returns a Function（创建一个函数返回函数）
+#### 9.7. Creating a Function That Returns a Function（创建一个函数返回函数）
+
 **CreatFunctionReturnFunction**
 
-9.8. Creating Partial Functions（局部函数）
+#### 9.8. Creating Partial Functions（局部函数）
+
 **CreatePartialFunction**
 
-9.9. A Real-World Example
+#### 9.9. A Real-World Example
+
 **AReadExample**
 
 ###Chapter 10. Collections（集合）
 
-Introduction
+#### Introduction
+
 **Main**
 
-10.1. Understanding the Collections Hierarchy（了解集合层次结构）
+#### 10.1. Understanding the Collections Hierarchy（了解集合层次结构）
+
 **UnderstandCollectionHierarchy**
 
-10.2. Choosing a Collection Class
+#### 10.2. Choosing a Collection Class
+
 **ChooseCollectionClass**
 
-10.3. Choosing a Collection Method to Solve a Problem
+#### 10.3. Choosing a Collection Method to Solve a Problem
+
 **ChooseCollectionMethodSolveProblem**
 
-10.4. Understanding the Performance of Collections
+#### 10.4. Understanding the Performance of Collections
+
 **UnderstandPerformanceCollections**
 
-10.5. Declaring a Type When Creating a Collection
+#### 10.5. Declaring a Type When Creating a Collection（创建集合时，声明一个类型）
+
 **DeclareTypeWhenCreateCollection**
 
-10.6. Understanding Mutable Variables with Immutable Collections
+#### 10.6. Understanding Mutable Variables with Immutable Collections
+
 **UnderstandMutableVariables**
 
-10.7. Make Vector Your “Go To” Immutable Sequence
+#### 10.7. Make Vector Your “Go To” Immutable Sequence（Vector不可变序列）
+
 **MakeVectorImmutableSequence**
 
-10.8. Make ArrayBuffer Your “Go To” Mutable Sequence
+#### 10.8. Make ArrayBuffer Your “Go To” Mutable Sequence（ArrayBuffer可变序列）
+
+**MakeArrayBufferMutableSequence**
+
+#### 10.9. Looping over a Collection with foreach（用foreach循环一个集合）
+
+**LoopCollectionWithForeach**
+
+#### 10.10. Looping over a Collection with a for Loop（用for循环一个集合）
+**LoopCollectionForLoop**
+
+#### 10.11. Using zipWithIndex or zip to Create Loop Counters（使用zipWithIndex或者zip创建一个循环计数器）
+**UseZipCreateLoopCounters**
+
+
+#### 10.12. Using Iterators
+**UseIterators**
+
+#### 10.13. Transforming One Collection to Another with for/yield
+**TransformOneCollectionForYield**
+
+#### 10.14. Transforming One Collection to Another with map
+**TransformOneCollectionAnotherMap**
+
+#### 10.15. Flattening a List of Lists with flatten
+**FlatList**
+
+#### 10.16. Combining map and flatten with flatMap
 ****
 
-10.9. Looping over a Collection with foreach
+#### 10.17. Using filter to Filter a Collection
 ****
 
-10.10. Looping over a Collection with a for Loop
+#### 10.18. Extracting a Sequence of Elements from a Collection
 ****
 
-10.11. Using zipWithIndex or zip to Create Loop Counters
+#### 10.19. Splitting Sequences into Subsets (groupBy,partition, etc.)
 ****
 
-10.12. Using Iterators
+#### 10.20. Walking Through a Collection with the reduce and fold Methods
 ****
 
-10.13. Transforming One Collection to Another with for/yield
-****
-
-10.14. Transforming One Collection to Another with map
-****
-
-10.15. Flattening a List of Lists with flatten
-****
-
-10.16. Combining map and flatten with flatMap
-****
-
-10.17. Using filter to Filter a Collection
-****
-
-10.18. Extracting a Sequence of Elements from a Collection
-****
-
-10.19. Splitting Sequences into Subsets (groupBy,partition, etc.)
-****
-
-10.20. Walking Through a Collection with the reduce and fold Methods
-****
-
-10.21. Extracting Unique Elements from a Sequence
+#### 10.21. Extracting Unique Elements from a Sequence
 ****
 
 
-10.22. Merging Sequential Collections
+#### 10.22. Merging Sequential Collections
 ****
 
-10.23. Merging Two Sequential Collections into Pairs with zip
+#### 10.23. Merging Two Sequential Collections into Pairs with zip
 ****
 
-10.24. Creating a Lazy View on a Collection
+#### 10.24. Creating a Lazy View on a Collection
 ****
 
 10.25. Populating a Collection with a Range
