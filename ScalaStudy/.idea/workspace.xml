@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aba27cd-ccac-4d35-b385-746717043b6f" name="Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/AddTraitToObjectInstance.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/EnsureTraitAddedType.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/ExtendJavaInterfaceLikeTrait.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/LimitClassUseTrait.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/MarkTraitBySubclasses.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/Running.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseAbstractConcreteFieldTraits.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitAsInterface.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitLikeAbstractClass.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitsAsMixins.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb008/Wagging.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatFunctionReturnFunction.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/DefineMethodAcceptFunctionParam.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/Main.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/MoreComplexFunctions.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/SimulatedClosure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseClosures.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionLiterals.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionVariables.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb009/UsePartiallyAppliedFunctions.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/DeclareTypeWhenCreateCollection.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandMutableVariables.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCookbook/src/README.md" afterPath="$PROJECT_DIR$/ScalaCookbook/src/README.md" />
     </list>
@@ -45,98 +51,98 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="408" column="30" selection-start-line="408" selection-start-column="2" selection-end-line="408" selection-end-column="30" />
+            <state relative-caret-position="275">
+              <caret line="467" column="28" selection-start-line="467" selection-start-column="2" selection-end-line="467" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtendJavaInterfaceLikeTrait.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/ExtendJavaInterfaceLikeTrait.scala">
+      <file leaf-file-name="UnderstandMutableVariables.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandMutableVariables.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="175">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddTraitToObjectInstance.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/AddTraitToObjectInstance.scala">
+      <file leaf-file-name="DeclareTypeWhenCreateCollection.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/DeclareTypeWhenCreateCollection.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="738">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Animal.java">
+      <file leaf-file-name="UnderstandPerformanceCollections.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="125">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseTraitAsInterface.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitAsInterface.scala">
+      <file leaf-file-name="ChooseCollectionMethodSolveProblem.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1252">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wagging.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Wagging.java">
+      <file leaf-file-name="ChooseCollectionClass.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Running.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Running.java">
+      <file leaf-file-name="UnderstandCollectionHierarchy.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnsureTraitAddedType.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/EnsureTraitAddedType.scala">
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarkTraitBySubclasses.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/MarkTraitBySubclasses.scala">
+      <file leaf-file-name="AReadExample.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="900">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LimitClassUseTrait.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/LimitClassUseTrait.scala">
+      <file leaf-file-name="CreatePartialFunction.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+            <state relative-caret-position="2400">
+              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,11 +157,11 @@
         <option value="package-info" />
         <option value="Scala Object" />
         <option value="Scala Worksheet" />
-        <option value="Class" />
         <option value="Package Object" />
         <option value="Kotlin Object" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -170,23 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/SetUninitializedField.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/HandleConstructParam.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/CallSuperclassConstructor.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/UseAbstractClass.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/DefinePropertiesAbstractBaseClass.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/GenerateBoilerplateCode.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb004/DefineEqualMethod.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb001/AddOwnMethodInString.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/Main.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/ControlMethodScope.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/CallMethodSuperclass.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/SetDefaultValueMethodParam.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/DefineMethodReturnMultipleItem.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/UseParamNameCallMethod.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/ForceCallAccessMethod.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/CreateMethodTakeField.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/DeclareMethodThrowException.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb005/SupportFluentStyleProgram.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb006/Main.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb006/ObjectCast.scala" />
@@ -213,7 +202,6 @@
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitsAsMixins.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/LimitClassUseTrait.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/MarkTraitBySubclasses.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/README.md" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/EnsureTraitAddedType.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/AddTraitToObjectInstance.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/Animal.java" />
@@ -221,6 +209,24 @@
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/Running.java" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/ExtendJavaInterfaceLikeTrait.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitAsInterface.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/Main.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionLiterals.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionVariables.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/DefineMethodAcceptFunctionParam.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/MoreComplexFunctions.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseClosures.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/SimulatedClosure.java" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UsePartiallyAppliedFunctions.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatFunctionReturnFunction.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/README.md" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/DeclareTypeWhenCreateCollection.scala" />
       </list>
     </option>
   </component>
@@ -271,48 +277,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Study018" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ScalaStudy">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -381,7 +345,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cb008" />
+              <option name="myItemId" value="cb010" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -403,11 +367,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cb008" />
+              <option name="myItemId" value="cb010" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ExtendJavaInterfaceLikeTrait.scala" />
+              <option name="myItemId" value="DeclareTypeWhenCreateCollection.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,6 +432,48 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ScalaStudy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,15 +490,15 @@
     <property name="project.structure.side.proportion" value="0.21753608" />
     <property name="SearchEverywhereHistoryKey" value="请输入&#9;null&#9;null" />
   </component>
-  <component name="RunManager" selected="Application.ExtendJavaInterfaceLikeTrait">
-    <configuration default="false" name="PackageCurlyBracesStyle" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.UnderstandCollectionHierarchy">
+    <configuration default="false" name="UsePartiallyAppliedFunctions" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb007.*" />
+          <option name="PATTERN" value="cb009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb007.PackageCurlyBracesStyle" />
+      <option name="MAIN_CLASS_NAME" value="cb009.UsePartiallyAppliedFunctions" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -505,14 +511,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RenameMembersOnImport" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CreatFunctionReturnFunction" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb007.*" />
+          <option name="PATTERN" value="cb009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb007.RenameMembersOnImport" />
+      <option name="MAIN_CLASS_NAME" value="cb009.CreatFunctionReturnFunction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -525,14 +531,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="UseStaticImports" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CreatePartialFunction" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb007.*" />
+          <option name="PATTERN" value="cb009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb007.UseStaticImports" />
+      <option name="MAIN_CLASS_NAME" value="cb009.CreatePartialFunction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -545,14 +551,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="UseTraitsAsMixins" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="AReadExample" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb008.*" />
+          <option name="PATTERN" value="cb009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb008.UseTraitsAsMixins" />
+      <option name="MAIN_CLASS_NAME" value="cb009.AReadExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -565,14 +571,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ExtendJavaInterfaceLikeTrait" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="UnderstandCollectionHierarchy" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb008.*" />
+          <option name="PATTERN" value="cb010.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb008.ExtendJavaInterfaceLikeTrait" />
+      <option name="MAIN_CLASS_NAME" value="cb010.UnderstandCollectionHierarchy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1096,19 +1102,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Application.HelloScala" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PackageCurlyBracesStyle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RenameMembersOnImport" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UseStaticImports" />
-      <item index="5" class="java.lang.String" itemvalue="Application.UseTraitsAsMixins" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ExtendJavaInterfaceLikeTrait" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UsePartiallyAppliedFunctions" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CreatFunctionReturnFunction" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CreatePartialFunction" />
+      <item index="5" class="java.lang.String" itemvalue="Application.AReadExample" />
+      <item index="6" class="java.lang.String" itemvalue="Application.UnderstandCollectionHierarchy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ExtendJavaInterfaceLikeTrait" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UseTraitsAsMixins" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UseStaticImports" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RenameMembersOnImport" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PackageCurlyBracesStyle" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UnderstandCollectionHierarchy" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AReadExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CreatePartialFunction" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CreatFunctionReturnFunction" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UsePartiallyAppliedFunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -1202,7 +1208,15 @@
       <workItem from="1468940016402" duration="594000" />
       <workItem from="1469022653308" duration="606000" />
       <workItem from="1469060016346" duration="2482000" />
-      <workItem from="1469103772213" duration="3845000" />
+      <workItem from="1469103772213" duration="3963000" />
+      <workItem from="1469198265730" duration="246000" />
+      <workItem from="1469200304691" duration="6000" />
+      <workItem from="1469200849146" duration="3050000" />
+      <workItem from="1469235642508" duration="4853000" />
+      <workItem from="1469280494899" duration="6255000" />
+      <workItem from="1469320151872" duration="4867000" />
+      <workItem from="1469326630552" duration="247000" />
+      <workItem from="1469330636866" duration="2717000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1467277693139</created>
@@ -1222,7 +1236,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315716000" />
+    <option name="totallyTimeSpent" value="338075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1234,7 +1248,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1245,8 +1259,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35372636" sideWeight="0.51492536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34910277" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3792517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34910277" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1255,8 +1269,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41435564" sideWeight="0.49169186" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1559,6 +1573,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10325">
+          <caret line="413" column="0" selection-start-line="413" selection-start-column="0" selection-end-line="413" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1681,127 +1711,71 @@
     </entry>
     <entry file="jar://C:/Program Files/scala/lib/scala-library.jar!/scala/xml/Elem.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="0">
           <caret line="1" column="209" selection-start-line="1" selection-start-column="209" selection-end-line="1" selection-end-column="209" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/DeterminingClassOfObject.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="0">
           <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/LaunchApplicationWithObject.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/CreateSingletonObject.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="0">
           <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/CreateStaticMembersObject.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
+        <state relative-caret-position="0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/PutCodePackageObj.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
+        <state relative-caret-position="0">
           <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://G:/SourceCode/scala/src/library/scala/Enumeration.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
+        <state relative-caret-position="0">
           <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/CreateObjectWithoutKeyword.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
+        <state relative-caret-position="0">
           <caret line="88" column="43" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb006/ImplementFactoryMethod.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="0">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/PackageCurlyBracesStyle.kt" />
     <entry file="file://$PROJECT_DIR$/QuickStudyScala/src/QSScala002/Demo001.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="0">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/ImportOneMoreMembers.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/RenameMembersOnImport.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/HideClassDureImportProcess.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/PackageCurlyBracesStyle.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/dates.scala" />
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/dates/Day.scala" />
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/dates/Day.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/UseStaticImports.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb007/UseImportStatementsAnywhere.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1809,110 +1783,168 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/UseAbstractConcreteFieldTraits.scala">
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="450">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionLiterals.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionVariables.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/DefineMethodAcceptFunctionParam.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseClosures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/SimulatedClosure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitLikeAbstractClass.scala">
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/MoreComplexFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatFunctionReturnFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/scala/lib/scala-library.jar!/scala/Function1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/scala/lib/scala-library.jar!/scala/PartialFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UsePartiallyAppliedFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitsAsMixins.scala">
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandMutableVariables.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/LimitClassUseTrait.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/MarkTraitBySubclasses.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/EnsureTraitAddedType.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/AddTraitToObjectInstance.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Wagging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Running.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitAsInterface.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1252">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="175">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="408" column="30" selection-start-line="408" selection-start-column="2" selection-end-line="408" selection-end-column="30" />
+        <state relative-caret-position="275">
+          <caret line="467" column="28" selection-start-line="467" selection-start-column="2" selection-end-line="467" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb008/ExtendJavaInterfaceLikeTrait.scala">
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/DeclareTypeWhenCreateCollection.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="738">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding />
         </state>
       </provider>

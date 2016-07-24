@@ -408,73 +408,378 @@ Introduction
 
 **ExtendJavaInterfaceLikeTrait**
 
+
+###Chapter 9. Functional Programming
+
+Introduction
+**Main**
+
+9.1. Using Function Literals (Anonymous Functions)（匿名函数）
+**UseFunctionLiterals**
+
+9.2. Using Functions as Variables（使用函数作为变量）
+**UseFunctionVariables**
+
+9.3. Defining a Method That Accepts a Simple Function Parameter（定义一个接受简单函数作为参数的方法）
+**DefineMethodAcceptFunctionParam**
+
+9.4. More Complex Functions（更加复杂的函数作为参数的方法）
+**MoreComplexFunctions**
+
+9.5. Using Closures（闭包）
+**UseClosures**
+
+A comparison to Java
+**SimulatedClosure**
+
+9.6. Using Partially Applied Functions
+**UsePartiallyAppliedFunctions**
+
+9.7. Creating a Function That Returns a Function（创建一个函数返回函数）
+**CreatFunctionReturnFunction**
+
+9.8. Creating Partial Functions（局部函数）
+**CreatePartialFunction**
+
+9.9. A Real-World Example
+**AReadExample**
+
+###Chapter 10. Collections（集合）
+
+Introduction
+**Main**
+
+10.1. Understanding the Collections Hierarchy（了解集合层次结构）
+**UnderstandCollectionHierarchy**
+
+10.2. Choosing a Collection Class
+**ChooseCollectionClass**
+
+10.3. Choosing a Collection Method to Solve a Problem
+**ChooseCollectionMethodSolveProblem**
+
+10.4. Understanding the Performance of Collections
+**UnderstandPerformanceCollections**
+
+10.5. Declaring a Type When Creating a Collection
+**DeclareTypeWhenCreateCollection**
+
+10.6. Understanding Mutable Variables with Immutable Collections
+**UnderstandMutableVariables**
+
+10.7. Make Vector Your “Go To” Immutable Sequence
+**MakeVectorImmutableSequence**
+
+10.8. Make ArrayBuffer Your “Go To” Mutable Sequence
+****
+
+10.9. Looping over a Collection with foreach
+****
+
+10.10. Looping over a Collection with a for Loop
+****
+
+10.11. Using zipWithIndex or zip to Create Loop Counters
+****
+
+10.12. Using Iterators
+****
+
+10.13. Transforming One Collection to Another with for/yield
+****
+
+10.14. Transforming One Collection to Another with map
+****
+
+10.15. Flattening a List of Lists with flatten
+****
+
+10.16. Combining map and flatten with flatMap
+****
+
+10.17. Using filter to Filter a Collection
+****
+
+10.18. Extracting a Sequence of Elements from a Collection
+****
+
+10.19. Splitting Sequences into Subsets (groupBy,partition, etc.)
+****
+
+10.20. Walking Through a Collection with the reduce and fold Methods
+****
+
+10.21. Extracting Unique Elements from a Sequence
+****
+
+
+10.22. Merging Sequential Collections
+****
+
+10.23. Merging Two Sequential Collections into Pairs with zip
+****
+
+10.24. Creating a Lazy View on a Collection
+****
+
+10.25. Populating a Collection with a Range
+
+****
+
+10.26. Creating and Using Enumerations
+
+****
+
+10.27. Tuples, for When You Just Need a Bag of Things
+****
+
+10.28. Sorting a Collection
+****
+
+10.29. Converting a Collection to a String with mkString
+****
+
+
+###Chapter 11. List, Array, Map, Set (and More)
+
+Introduction
+****
+
+11.1. Different Ways to Create and Populate a List
+****
+
+11.2. Creating a Mutable List
+****
+
+11.3. Adding Elements to a List
+****
+
+11.4. Deleting Elements from a List (or ListBuffer)
+****
+
+11.5. Merging (Concatenating) Lists
+****
+
+11.6. Using Stream, a Lazy Version of a List
+****
+
+11.7. Different Ways to Create and Update an Array
+****
+
+11.8. Creating an Array Whose Size Can Change(ArrayBuffer)
+****
+
+11.9. Deleting Array and ArrayBuffer Elements
+****
+
+11.10. Sorting Arrays
+****
+
+11.11. Creating Multidimensional Arrays
+****
+
+11.12. Creating Maps
+****
+
+11.13. Choosing a Map Implementation
+****
+
+11.14. Adding, Updating, and Removing Elements with a Mutable Map
+****
+
+11.15. Adding, Updating, and Removing Elements with Immutable Maps
+****
+
+11.16. Accessing Map Values
+****
+
+11.17. Traversing a Map
+****
+
+11.18. Getting the Keys or Values from a Map
+****
+
+11.19. Reversing Keys and Values
+****
+
+11.20. Testing for the Existence of a Key or Value in a Map
+****
+
+11.21. Filtering a Map
+****
+
+11.22. Sorting an Existing Map by Key or Value
+****
+
+11.23. Finding the Largest Key or Value in a Map
+****
+
+11.24. Adding Elements to a Set
+****
+
+11.25. Deleting Elements from Sets
+****
+
+11.26. Using Sortable Sets
+****
+
+11.27. Using a Queue
+****
+
+11.28. Using a Stack
+****
+
+11.29. Using a Range
+****
+
+Chapter 12. Files and Processes
+
+12.0. Introduction
+****
+
+12.1. How to Open and Read a Text File
+****
+
+12.2. Writing Text Files
+****
+
+12.3. Reading and Writing Binary Files
+****
+
+12.4. How to Process Every Character in a Text File
+****
+
+12.5. How to Process a CSV File
+****
+
+12.6. Pretending that a String Is a File
+****
+
+12.7. Using Serialization
+****
+
+12.8. Listing Files in a Directory
+****
+
+12.9. Listing Subdirectories Beneath a Directory
+****
+
+12.10. Executing External Commands
+****
+
+12.11. Executing External Commands and Using STDOUT
+****
+
+12.12. Handling STDOUT and STDERR for External Commands
+****
+
+12.13. Building a Pipeline of Commands
+****
+
+12.14. Redirecting the STDOUT and STDIN of External Commands
+****
+
+12.15. Using AND (&&) and OR (||) with Processes
+****
+
+12.16. Handling Wildcard Characters in External Commands
+****
+
+12.17. How to Run a Process in a Different Directory
+****
+
+12.18. Setting Environment Variables When Running Commands
+****
+
+12.19. An Index of Methods to Execute External Commands
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
 ****
 
 ****
 
 ****
-
-
-
-****
-
-
 ****
 
 ****
-
 ****
 
 ****
-
 ****
 
 ****
-
-
-****
-
-
 ****
 
 ****
-
 ****
 
 ****
-
 ****
 
 ****
-
-
 ****
 
+****
+****
 
+****
+****
+
+****
 ****
 
 ****
 
 ****
-
 ****
 
 ****
-
-****
-
-
-****
-
-
 ****
 
 ****
-
 ****
 
 ****
+****
 
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
 ****
 
 ****
