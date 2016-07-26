@@ -518,44 +518,44 @@ A comparison to Java
 #### 10.17. Using filter to Filter a Collection（集合中使用filter过滤）
 **UseFliterInCollection**
 
-#### 10.18. Extracting a Sequence of Elements from a Collection
-****
+#### 10.18. Extracting a Sequence of Elements from a Collection（从集合中提取一个元素序列）
+**ExtractSequenceElementFromCollection**
 
 #### 10.19. Splitting Sequences into Subsets (groupBy,partition, etc.)
-****
+**SplitSequencesSubsets**
 
 #### 10.20. Walking Through a Collection with the reduce and fold Methods
-****
+**WalkThroughCollectionWithReduceFold**
 
 #### 10.21. Extracting Unique Elements from a Sequence
-****
+**ExtractUniqueElementFromSequence**
 
 
 #### 10.22. Merging Sequential Collections
-****
+**MergeSequentialCollection**
 
 #### 10.23. Merging Two Sequential Collections into Pairs with zip
-****
+**MergeTwoSequentialCollectionPair**
 
 #### 10.24. Creating a Lazy View on a Collection
-****
+**CreateLazyViewOnCollection**
 
 10.25. Populating a Collection with a Range
 
-****
+**PopulatingCollectionWithRange**
 
 10.26. Creating and Using Enumerations
 
-****
+**CreateAndUseEnumeration**
 
 10.27. Tuples, for When You Just Need a Bag of Things
-****
+**TuplesWhenJustNeedBag**
 
 10.28. Sorting a Collection
-****
+**SortCollection**
 
 10.29. Converting a Collection to a String with mkString
-****
+**ConvertCollectionToStringWithMkstring**
 
 
 ###Chapter 11. List, Array, Map, Set (and More)
