@@ -527,11 +527,11 @@ A comparison to Java
 #### 10.20. Walking Through a Collection with the reduce and fold Methods
 **WalkThroughCollectionWithReduceFold**
 
-#### 10.21. Extracting Unique Elements from a Sequence
+#### 10.21. Extracting Unique Elements from a Sequence（从序列中提取唯一元素）
 **ExtractUniqueElementFromSequence**
 
 
-#### 10.22. Merging Sequential Collections
+#### 10.22. Merging Sequential Collections（合并序列集合）
 **MergeSequentialCollection**
 
 #### 10.23. Merging Two Sequential Collections into Pairs with zip
