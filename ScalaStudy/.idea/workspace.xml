@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aba27cd-ccac-4d35-b385-746717043b6f" name="Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/ConvertCollectionToStringWithMkstring.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/CreateAndUseEnumeration.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/CreateLazyViewOnCollection.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/MergeTwoSequentialCollectionPair.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/PopulatingCollectionWithRange.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/SortCollection.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/TuplesWhenJustNeedBag.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/AccessMapValue.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddElementList.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementImmultableMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementMultableMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/ChooseMapImpl.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateArrayWhoseSizeChange.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMultidimensionalArray.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMutableList.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteArrayAndArrayBufferElements.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteElementList.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateArray.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateList.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/FilterMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/GetKeyValueFromMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/MergeLists.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/ReverseKeyAndValue.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/SortArrays.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/SortExistMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/TestExistKeyValueInMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/TraverseMap.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb011/UseStreamLazyList.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCookbook/src/README.md" afterPath="$PROJECT_DIR$/ScalaCookbook/src/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaCookbook/src/cb010/ExtractUniqueElementFromSequence.scala" afterPath="$PROJECT_DIR$/ScalaCookbook/src/cb010/ExtractUniqueElementFromSequence.scala" />
     </list>
     <ignored path="ScalaStudy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,103 +52,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="584" column="25" selection-start-line="584" selection-start-column="25" selection-end-line="584" selection-end-column="25" />
+            <state relative-caret-position="144">
+              <caret line="634" column="14" selection-start-line="634" selection-start-column="2" selection-end-line="634" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertCollectionToStringWithMkstring.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ConvertCollectionToStringWithMkstring.scala">
+      <file leaf-file-name="SortExistMap.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/SortExistMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="250">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortCollection.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/SortCollection.scala">
+      <file leaf-file-name="FilterMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/FilterMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2150">
-              <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+            <state relative-caret-position="260">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
-        <entry file="file://G:/SourceCode/scala/src/library/scala/package.scala">
+      <file leaf-file-name="TestExistKeyValueInMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/TestExistKeyValueInMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2425">
-              <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+            <state relative-caret-position="185">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ordered.scala" pinned="false" current-in-tab="false">
-        <entry file="file://G:/SourceCode/scala/src/library/scala/math/Ordered.scala">
+      <file leaf-file-name="ReverseKeyAndValue.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/ReverseKeyAndValue.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="78" column="54" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="54" />
+            <state relative-caret-position="10">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TuplesWhenJustNeedBag.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/TuplesWhenJustNeedBag.scala">
+      <file leaf-file-name="GetKeyValueFromMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/GetKeyValueFromMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1225">
-              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-              <folding>
-                <element signature="n#!!doc;n#TuplesWhenJustNeedBag$#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateAndUseEnumeration.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/CreateAndUseEnumeration.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="85">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enumeration.scala" pinned="false" current-in-tab="false">
-        <entry file="file://G:/SourceCode/scala/src/library/scala/Enumeration.scala">
+      <file leaf-file-name="TraverseMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/TraverseMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3125">
-              <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
+            <state relative-caret-position="876">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopulatingCollectionWithRange.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/PopulatingCollectionWithRange.scala">
+      <file leaf-file-name="AccessMapValue.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AccessMapValue.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddUpdateRemoveElementImmultableMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementImmultableMap.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1075">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateLazyViewOnCollection.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/CreateLazyViewOnCollection.scala">
+      <file leaf-file-name="AddUpdateRemoveElementMultableMap.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementMultableMap.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2225">
-              <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
+            <state relative-caret-position="1200">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -168,28 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/LimitClassUseTrait.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/MarkTraitBySubclasses.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/EnsureTraitAddedType.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/AddTraitToObjectInstance.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/Animal.java" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/Wagging.java" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/Running.java" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/ExtendJavaInterfaceLikeTrait.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb008/UseTraitAsInterface.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/Main.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionLiterals.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionVariables.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/DefineMethodAcceptFunctionParam.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/MoreComplexFunctions.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UseClosures.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/SimulatedClosure.java" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/UsePartiallyAppliedFunctions.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatFunctionReturnFunction.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala" />
-        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala" />
@@ -218,7 +208,29 @@
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/TuplesWhenJustNeedBag.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/SortCollection.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/cb010/ConvertCollectionToStringWithMkstring.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateList.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMutableList.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddElementList.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteElementList.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/MergeLists.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/UseStreamLazyList.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateArray.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateArrayWhoseSizeChange.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteArrayAndArrayBufferElements.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/SortArrays.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMultidimensionalArray.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/ChooseMapImpl.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementMultableMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementImmultableMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/AccessMapValue.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/TraverseMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/GetKeyValueFromMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/ReverseKeyAndValue.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/TestExistKeyValueInMap.scala" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/FilterMap.scala" />
         <option value="$PROJECT_DIR$/ScalaCookbook/src/README.md" />
+        <option value="$PROJECT_DIR$/ScalaCookbook/src/cb011/SortExistMap.scala" />
       </list>
     </option>
   </component>
@@ -269,35 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Study018" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -372,12 +355,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaCookbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cb011" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="QuickStudyScala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Study018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,15 +428,15 @@
     <property name="project.structure.side.proportion" value="0.21753608" />
     <property name="SearchEverywhereHistoryKey" value="请输入&#9;null&#9;null" />
   </component>
-  <component name="RunManager" selected="Application.ConvertCollectionToStringWithMkstring">
-    <configuration default="false" name="CreateLazyViewOnCollection" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.GetKeyValueFromMap">
+    <configuration default="false" name="ChooseMapImpl" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb010.*" />
+          <option name="PATTERN" value="cb011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb010.CreateLazyViewOnCollection" />
+      <option name="MAIN_CLASS_NAME" value="cb011.ChooseMapImpl" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -415,14 +449,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CreateAndUseEnumeration" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="AddUpdateRemoveElementMultableMap" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb010.*" />
+          <option name="PATTERN" value="cb011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb010.CreateAndUseEnumeration" />
+      <option name="MAIN_CLASS_NAME" value="cb011.AddUpdateRemoveElementMultableMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -435,14 +469,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TuplesWhenJustNeedBag" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="AccessMapValue" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb010.*" />
+          <option name="PATTERN" value="cb011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb010.TuplesWhenJustNeedBag" />
+      <option name="MAIN_CLASS_NAME" value="cb011.AccessMapValue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -455,14 +489,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SortCollection" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="TraverseMap" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb010.*" />
+          <option name="PATTERN" value="cb011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb010.SortCollection" />
+      <option name="MAIN_CLASS_NAME" value="cb011.TraverseMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -475,14 +509,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ConvertCollectionToStringWithMkstring" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="GetKeyValueFromMap" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cb010.*" />
+          <option name="PATTERN" value="cb011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cb010.ConvertCollectionToStringWithMkstring" />
+      <option name="MAIN_CLASS_NAME" value="cb011.GetKeyValueFromMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -523,10 +557,7 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -549,10 +580,7 @@
       <Profilers>
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -1006,19 +1034,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Application.HelloScala" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CreateLazyViewOnCollection" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CreateAndUseEnumeration" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TuplesWhenJustNeedBag" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SortCollection" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ConvertCollectionToStringWithMkstring" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ChooseMapImpl" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AddUpdateRemoveElementMultableMap" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AccessMapValue" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TraverseMap" />
+      <item index="6" class="java.lang.String" itemvalue="Application.GetKeyValueFromMap" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ConvertCollectionToStringWithMkstring" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SortCollection" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TuplesWhenJustNeedBag" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CreateAndUseEnumeration" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CreateLazyViewOnCollection" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GetKeyValueFromMap" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TraverseMap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AccessMapValue" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AddUpdateRemoveElementMultableMap" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ChooseMapImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -1128,7 +1156,8 @@
       <workItem from="1469629238033" duration="2942000" />
       <workItem from="1469709620931" duration="120000" />
       <workItem from="1469846804866" duration="10142000" />
-      <workItem from="1469923828362" duration="41000" />
+      <workItem from="1469923828362" duration="14105000" />
+      <workItem from="1469957393681" duration="3132000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1467277693139</created>
@@ -1148,7 +1177,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="369197000" />
+    <option name="totallyTimeSpent" value="386393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1160,22 +1189,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
-    <editor active="false" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35775128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35372636" sideWeight="0.51492536" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36797273" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36797273" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3792517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23489426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23489426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1188,7 +1218,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35775128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1485,160 +1514,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionLiterals.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseFunctionVariables.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/DefineMethodAcceptFunctionParam.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UseClosures.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/SimulatedClosure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/MoreComplexFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2575">
-          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatFunctionReturnFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/scala/lib/scala-library.jar!/scala/Function1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/scala/lib/scala-library.jar!/scala/PartialFunction.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/UsePartiallyAppliedFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/CreatePartialFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb009/AReadExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandCollectionHierarchy.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/ChooseCollectionMethodSolveProblem.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/DeclareTypeWhenCreateCollection.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/MakeVectorImmutableSequence.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/LoopCollectionForLoop.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/MakeArrayBufferMutableSequence.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandMutableVariables.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb010/UnderstandPerformanceCollections.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1770,7 +1645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2225">
           <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1778,7 +1652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1075">
           <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1786,7 +1659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3125">
           <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1794,7 +1666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1802,7 +1673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2425">
           <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1810,7 +1680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
           <caret line="78" column="54" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1818,9 +1687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1225">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc;n#TuplesWhenJustNeedBag$#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1828,7 +1694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2150">
           <caret line="86" column="24" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1836,14 +1701,181 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMutableList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AddElementList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteElementList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/MergeLists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/UseStreamLazyList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/DifferentWayCreateArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateArrayWhoseSizeChange.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/DeleteArrayAndArrayBufferElements.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/SortArrays.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMultidimensionalArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/CreateMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/ChooseMapImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementMultableMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AddUpdateRemoveElementImmultableMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/AccessMapValue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/TraverseMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/GetKeyValueFromMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/ReverseKeyAndValue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/TestExistKeyValueInMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/FilterMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="584" column="25" selection-start-line="584" selection-start-column="25" selection-end-line="584" selection-end-column="25" />
+        <state relative-caret-position="144">
+          <caret line="634" column="14" selection-start-line="634" selection-start-column="2" selection-end-line="634" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaCookbook/src/cb011/SortExistMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
           <folding />
         </state>
       </provider>

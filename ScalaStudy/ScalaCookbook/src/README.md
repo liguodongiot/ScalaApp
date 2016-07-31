@@ -540,21 +540,21 @@ A comparison to Java
 #### 10.24. Creating a Lazy View on a Collection（在集合中创建懒惰视图）
 **CreateLazyViewOnCollection**
 
-10.25. Populating a Collection with a Range
+#### 10.25. Populating a Collection with a Range
 
 **PopulatingCollectionWithRange**
 
-10.26. Creating and Using Enumerations（枚举）
+#### 10.26. Creating and Using Enumerations（枚举）
 
 **CreateAndUseEnumeration**
 
-10.27. Tuples, for When You Just Need a Bag of Things
+#### 10.27. Tuples, for When You Just Need a Bag of Things
 **TuplesWhenJustNeedBag**
 
-10.28. Sorting a Collection（集合排序）
+#### 10.28. Sorting a Collection（集合排序）
 **SortCollection**
 
-10.29. Converting a Collection to a String with mkString
+#### 10.29. Converting a Collection to a String with mkString
 **ConvertCollectionToStringWithMkstring**
 
 
@@ -562,97 +562,104 @@ A comparison to Java
 
 Introduction
 
-11.1. Different Ways to Create and Populate a List
+#### 11.1. Different Ways to Create and Populate a List
 
 **DifferentWayCreateList**
 
-11.2. Creating a Mutable List
+#### 11.2. Creating a Mutable List（创建一个可变列表）
 **CreateMutableList**
 
-11.3. Adding Elements to a List
+#### 11.3. Adding Elements to a List（向List中增加元素）
 **AddElementList**
 
-11.4. Deleting Elements from a List (or ListBuffer)
+#### 11.4. Deleting Elements from a List (or ListBuffer)（从List和ListBuffer中删除元素）
 **DeleteElementList**
 
-11.5. Merging (Concatenating) Lists
+#### 11.5. Merging (Concatenating) Lists
 **MergeLists**
 
-11.6. Using Stream, a Lazy Version of a List
+#### 11.6. Using Stream, a Lazy Version of a List（使用List，一个懒惰版本的List）
 **UseStreamLazyList**
 
-11.7. Different Ways to Create and Update an Array
+#### 11.7. Different Ways to Create and Update an Array（不同的方式创建和更新数组）
 **DifferentWayCreateArray**
 
-11.8. Creating an Array Whose Size Can Change(ArrayBuffer)
-****
+#### 11.8. Creating an Array Whose Size Can Change(ArrayBuffer)（创建一个可以改变的数组）
+**CreateArrayWhoseSizeChange**
 
-11.9. Deleting Array and ArrayBuffer Elements
-****
+#### 11.9. Deleting Array and ArrayBuffer Elements（删除Array和ArrayBuffer中的元素）
+**DeleteArrayAndArrayBufferElements**
 
-11.10. Sorting Arrays
-****
+#### 11.10. Sorting Arrays（数组排序）
+**SortArrays**
 
-11.11. Creating Multidimensional Arrays
-****
+#### 11.11. Creating Multidimensional Arrays（创建多维数组）
+**CreateMultidimensionalArray**
 
-11.12. Creating Maps
-****
+#### 11.12. Creating Maps（创建Map）
+**CreateMap**
 
-11.13. Choosing a Map Implementation
-****
+#### 11.13. Choosing a Map Implementation（选择Map实现）
 
-11.14. Adding, Updating, and Removing Elements with a Mutable Map
-****
+**ChooseMapImpl**
 
-11.15. Adding, Updating, and Removing Elements with Immutable Maps
-****
+#### 11.14. Adding, Updating, and Removing Elements with a Mutable Map（可变Map中增加、更新移除元素）
 
-11.16. Accessing Map Values
-****
+**AddUpdateRemoveElementMultableMap**
 
-11.17. Traversing a Map
-****
+#### 11.15. Adding, Updating, and Removing Elements with Immutable Maps（不可变Map中增加、更新移除元素）
 
-11.18. Getting the Keys or Values from a Map
-****
+**AddUpdateRemoveElementImmultableMap**
 
-11.19. Reversing Keys and Values
-****
+#### 11.16. Accessing Map Values（访问Map的value值）
 
-11.20. Testing for the Existence of a Key or Value in a Map
-****
+**AccessMapValue**
 
-11.21. Filtering a Map
-****
+#### 11.17. Traversing a Map（遍历Map）
 
-11.22. Sorting an Existing Map by Key or Value
-****
+**TraverseMap**
 
-11.23. Finding the Largest Key or Value in a Map
-****
+#### 11.18. Getting the Keys or Values from a Map（从Map中获取Key和Value值）
+**GetKeyValueFromMap**
 
-11.24. Adding Elements to a Set
-****
+#### 11.19. Reversing Keys and Values（反转键和值）
+**ReverseKeyAndValue**
 
-11.25. Deleting Elements from Sets
-****
+#### 11.20. Testing for the Existence of a Key or Value in a Map（测试Map中存在的键和值）
+**TestExistKeyValueInMap**
 
-11.26. Using Sortable Sets
-****
+#### 11.21. Filtering a Map（Map过滤）
+**FilterMap**
 
-11.27. Using a Queue
-****
+#### 11.22. Sorting an Existing Map by Key or Value（通过Key或Value对Map进行排序）
+**SortExistMap**
 
-11.28. Using a Stack
-****
+#### 11.23. Finding the Largest Key or Value in a Map
+*FindLagestKeyOrValueInMap***
 
-11.29. Using a Range
-****
+#### 11.24. Adding Elements to a Set
+**AddElementToSet**
 
-Chapter 12. Files and Processes
+#### 11.25. Deleting Elements from Sets
+**DeleteElementFromSet**
 
-12.0. Introduction
+#### 11.26. Using Sortable Sets
+**UseSortSet**
+
+#### 11.27. Using a Queue
+**UseQueue**
+
+#### 11.28. Using a Stack
+**UseStack**
+
+#### 11.29. Using a Range
+**UseRange**
+
+
+
+###Chapter 12. Files and Processes
+
+#### 12.0. Introduction
 ****
 
 12.1. How to Open and Read a Text File
