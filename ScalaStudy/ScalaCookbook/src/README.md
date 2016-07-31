@@ -537,21 +537,21 @@ A comparison to Java
 #### 10.23. Merging Two Sequential Collections into Pairs with zip
 **MergeTwoSequentialCollectionPair**
 
-#### 10.24. Creating a Lazy View on a Collection
+#### 10.24. Creating a Lazy View on a Collection（在集合中创建懒惰视图）
 **CreateLazyViewOnCollection**
 
 10.25. Populating a Collection with a Range
 
 **PopulatingCollectionWithRange**
 
-10.26. Creating and Using Enumerations
+10.26. Creating and Using Enumerations（枚举）
 
 **CreateAndUseEnumeration**
 
 10.27. Tuples, for When You Just Need a Bag of Things
 **TuplesWhenJustNeedBag**
 
-10.28. Sorting a Collection
+10.28. Sorting a Collection（集合排序）
 **SortCollection**
 
 10.29. Converting a Collection to a String with mkString
@@ -561,28 +561,28 @@ A comparison to Java
 ###Chapter 11. List, Array, Map, Set (and More)
 
 Introduction
-****
 
 11.1. Different Ways to Create and Populate a List
-****
+
+**DifferentWayCreateList**
 
 11.2. Creating a Mutable List
-****
+**CreateMutableList**
 
 11.3. Adding Elements to a List
-****
+**AddElementList**
 
 11.4. Deleting Elements from a List (or ListBuffer)
-****
+**DeleteElementList**
 
 11.5. Merging (Concatenating) Lists
-****
+**MergeLists**
 
 11.6. Using Stream, a Lazy Version of a List
-****
+**UseStreamLazyList**
 
 11.7. Different Ways to Create and Update an Array
-****
+**DifferentWayCreateArray**
 
 11.8. Creating an Array Whose Size Can Change(ArrayBuffer)
 ****
