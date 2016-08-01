@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QuickStudyScala/QuickStudyScala.iml" filepath="$PROJECT_DIR$/QuickStudyScala/QuickStudyScala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ScalaCookbook/ScalaCookbook.iml" filepath="$PROJECT_DIR$/ScalaCookbook/ScalaCookbook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ScalaStudy.iml" filepath="$PROJECT_DIR$/ScalaStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ScalaTour/ScalaTour.iml" filepath="$PROJECT_DIR$/ScalaTour/ScalaTour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ScalaStudy.iml" filepath="$PROJECT_DIR$/.idea/ScalaStudy.iml" />
     </modules>
   </component>
 </project>

@@ -634,25 +634,25 @@ Introduction
 #### 11.22. Sorting an Existing Map by Key or Value（通过Key或Value对Map进行排序）
 **SortExistMap**
 
-#### 11.23. Finding the Largest Key or Value in a Map
+#### 11.23. Finding the Largest Key or Value in a Map（找出map中key或者value的最大值）
 *FindLagestKeyOrValueInMap***
 
-#### 11.24. Adding Elements to a Set
+#### 11.24. Adding Elements to a Set（向Set中增加元素）
 **AddElementToSet**
 
-#### 11.25. Deleting Elements from Sets
+#### 11.25. Deleting Elements from Sets（向Set中删除元素）
 **DeleteElementFromSet**
 
-#### 11.26. Using Sortable Sets
+#### 11.26. Using Sortable Sets（Set排序）
 **UseSortSet**
 
-#### 11.27. Using a Queue
+#### 11.27. Using a Queue（使用队列）
 **UseQueue**
 
-#### 11.28. Using a Stack
+#### 11.28. Using a Stack（使用栈）
 **UseStack**
 
-#### 11.29. Using a Range
+#### 11.29. Using a Range（使用range）
 **UseRange**
 
 
