@@ -20,11 +20,11 @@ object UseSortSet extends App{
 
   //class Person (var name: String)
   //继承Ordered特质，并实现compare方法
-  class Person (var name: String) extends Ordered [Person]
-  {
+  class Person (var name: String) extends Ordered [Person] {
     override def toString = name
+
     // return 0 if the same, negative if this < that, positive if this > that
-    def compare (that: Person) = {
+    def compare(that: Person) = {
       if (this.name == that.name)
         0
       else if (this.name > that.name)
@@ -32,6 +32,7 @@ object UseSortSet extends App{
       else
         -1
     }
+  }
   import scala.collection.SortedSet
   val aleka = new Person("Aleka")
   val christina = new Person("Christina")
@@ -44,7 +45,7 @@ object UseSortSet extends App{
 
   //To solve this problem, modify the Person class to extend the Ordered trait,
   // and implement a compare method
-  val s = SortedSet(molly, tyler, christina, aleka) //scala.collection.SortedSet[Person] = TreeSet(Aleka, Christina, Molly, Tyler)
+  val ss = SortedSet(molly, tyler, christina, aleka) //scala.collection.SortedSet[Person] = TreeSet(Aleka, Christina, Molly, Tyler)
 
 
 

@@ -657,86 +657,107 @@ Introduction
 
 
 
-###Chapter 12. Files and Processes
+###Chapter 12. Files and Processes（文件和进程）
 
 #### 12.0. Introduction
+
+
+#### 12.1. How to Open and Read a Text File（怎样打开和读取一个文本文件）
+**HowOpenReadTextFile**
+
+#### 12.2. Writing Text Files（写文本文件）
 ****
 
-12.1. How to Open and Read a Text File
+#### 12.3. Reading and Writing Binary Files（读和写二进制文件）
 ****
 
-12.2. Writing Text Files
+#### 12.4. How to Process Every Character in a Text File（如何处理文件中的每一个字符）
 ****
 
-12.3. Reading and Writing Binary Files
+#### 12.5. How to Process a CSV File（这样处理一个CSV文件）
 ****
 
-12.4. How to Process Every Character in a Text File
+#### 12.6. Pretending that a String Is a File（假设字符串是一个文件）
 ****
 
-12.5. How to Process a CSV File
+#### 12.7. Using Serialization（使用序列化）
 ****
 
-12.6. Pretending that a String Is a File
+#### 12.8. Listing Files in a Directory（列出目录中的文件）
 ****
 
-12.7. Using Serialization
+#### 12.9. Listing Subdirectories Beneath a Directory
 ****
 
-12.8. Listing Files in a Directory
+#### 12.10. Executing External Commands
 ****
 
-12.9. Listing Subdirectories Beneath a Directory
+#### 12.11. Executing External Commands and Using STDOUT
 ****
 
-12.10. Executing External Commands
+#### 12.12. Handling STDOUT and STDERR for External Commands
 ****
 
-12.11. Executing External Commands and Using STDOUT
+#### 12.13. Building a Pipeline of Commands
 ****
 
-12.12. Handling STDOUT and STDERR for External Commands
+#### 12.14. Redirecting the STDOUT and STDIN of External Commands
 ****
 
-12.13. Building a Pipeline of Commands
+#### 12.15. Using AND (&&) and OR (||) with Processes
 ****
 
-12.14. Redirecting the STDOUT and STDIN of External Commands
+#### 12.16. Handling Wildcard Characters in External Commands
 ****
 
-12.15. Using AND (&&) and OR (||) with Processes
+#### 12.17. How to Run a Process in a Different Directory
 ****
 
-12.16. Handling Wildcard Characters in External Commands
+#### 12.18. Setting Environment Variables When Running Commands
 ****
 
-12.17. How to Run a Process in a Different Directory
+#### 12.19. An Index of Methods to Execute External Commands
 ****
 
-12.18. Setting Environment Variables When Running Commands
+### Chapter 13. Actors and Concurrency
+
+Introduction
 ****
 
-12.19. An Index of Methods to Execute External Commands
+13.1. Getting Started with a Simple Actor
 ****
 
-****
-****
-
-****
+13.2. Creating an Actor Whose Class Constructor Requires Arguments
 ****
 
-****
-****
-
-****
+13.3. How to Communicate Between Actors
 ****
 
-****
-****
-
-****
+13.4. Understanding the Methods in the Akka Actor Lifecycle
 ****
 
+13.5. Starting an Actor
+****
+
+13.6. Stopping Actors
+****
+
+13.7. Shutting Down the Akka Actor System
+****
+
+13.8. Monitoring the Death of an Actor with watch
+****
+
+13.9. Simple Concurrency with Futures
+****
+
+13.10. Sending a Message to an Actor and Waiting for a Reply
+****
+
+13.11. Switching Between Different States with become
+****
+
+3.12. Using Parallel Collections
 ****
 ****
 
