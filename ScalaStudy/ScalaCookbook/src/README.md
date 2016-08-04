@@ -666,58 +666,60 @@ Introduction
 **HowOpenReadTextFile**
 
 #### 12.2. Writing Text Files（写文本文件）
-****
+**WriteTextFiles**
 
 #### 12.3. Reading and Writing Binary Files（读和写二进制文件）
-****
+**ReadAndWriteBinaryFiles**
 
 #### 12.4. How to Process Every Character in a Text File（如何处理文件中的每一个字符）
-****
+**HowProcessEveryCharacterTextFile**
 
-#### 12.5. How to Process a CSV File（这样处理一个CSV文件）
-****
+#### 12.5. How to Process a CSV File（怎样处理一个CSV文件）
+**HowProcessCsvFile**
 
 #### 12.6. Pretending that a String Is a File（假设字符串是一个文件）
-****
+**PretendStringIsFile**
 
 #### 12.7. Using Serialization（使用序列化）
-****
+**UseSerialization**
 
 #### 12.8. Listing Files in a Directory（列出目录中的文件）
-****
+**ListFilesInDirectory**
 
 #### 12.9. Listing Subdirectories Beneath a Directory
-****
+**ListSubdirectoriesBeneathDirectory**
 
 #### 12.10. Executing External Commands
-****
+**ExecutExternalCommands**
 
 #### 12.11. Executing External Commands and Using STDOUT
-****
+**ExecuteExternalCommandsAndUsingStdout**
 
 #### 12.12. Handling STDOUT and STDERR for External Commands
-****
+**HandleStdoutAndStderrExternalCommands**
 
 #### 12.13. Building a Pipeline of Commands
-****
+**BuildPipelineCommand**
 
 #### 12.14. Redirecting the STDOUT and STDIN of External Commands
-****
+**RedirectStdoutAndStdinOfExternalCommands**
 
 #### 12.15. Using AND (&&) and OR (||) with Processes
-****
+**UseAndOrWithProcess**
 
 #### 12.16. Handling Wildcard Characters in External Commands
-****
+**HandleWildcardCharacters**
 
 #### 12.17. How to Run a Process in a Different Directory
-****
+**RunProcessInDifferentDirectory**
 
 #### 12.18. Setting Environment Variables When Running Commands
-****
+**SetEnvironmentVarWhenRunCommands**
 
 #### 12.19. An Index of Methods to Execute External Commands
-****
+**AnIndexMethodsExecuteExternalCommands**
+
+
 
 ### Chapter 13. Actors and Concurrency
 
