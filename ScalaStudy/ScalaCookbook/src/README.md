@@ -721,45 +721,108 @@ Introduction
 
 
 
-### Chapter 13. Actors and Concurrency
+### Chapter 13. Actors and Concurrency（Actors和并发）
+
+#### Introduction
+
+
+#### 13.1. Getting Started with a Simple Actor
+****
+
+#### 13.2. Creating an Actor Whose Class Constructor Requires Arguments
+****
+
+#### 13.3. How to Communicate Between Actors
+****
+
+#### 13.4. Understanding the Methods in the Akka Actor Lifecycle
+****
+
+#### 13.5. Starting an Actor
+****
+
+#### 13.6. Stopping Actors
+****
+
+#### 13.7. Shutting Down the Akka Actor System
+****
+
+#### 13.8. Monitoring the Death of an Actor with watch
+****
+
+#### 13.9. Simple Concurrency with Futures
+****
+
+#### 13.10. Sending a Message to an Actor and Waiting for a Reply
+****
+
+#### 13.11. Switching Between Different States with become
+****
+
+#### 13.12. Using Parallel Collections
+****
+
+### CHAPTER 14 Command-Line Tasks
+
+14.0. Introduction
+
+14.1. Getting Started with the Scala REPL
+****
+
+14.2. Pasting and Loading Blocks of Code into the REPL
+****
+
+14.3. Adding JAR Files and Classes to the REPL Classpath
+****
+
+14.4. Running a Shell Command from the REPL
+****
+
+14.5. Compiling with scalac and Running with scala
+****
+
+14.6. Disassembling and Decompiling Scala Code
+****
+
+14.7. Finding Scala Libraries
+****
+
+14.8. Generating Documentation with scaladoc
+****
+
+14.9. Faster Command-Line Compiling with fsc
+****
+
+14.10. Using Scala as a Scripting Language
+****
+
+14.11. Accessing Command-Line Arguments from a Script
+****
+
+14.12. Prompting for Input from a Scala Shell Script
+****
+
+14.13. Make Your Scala Scripts Run Faster
+****
+
+### Chapter 15. Web Services
 
 Introduction
 ****
 
-13.1. Getting Started with a Simple Actor
+15.1. Creating a JSON String from a Scala Object
 ****
 
-13.2. Creating an Actor Whose Class Constructor Requires Arguments
+15.2. Creating a JSON String from Classes That Have Collections
 ****
 
-13.3. How to Communicate Between Actors
+15.3. Creating a Simple Scala Object from a JSON String
+****
 ****
 
-13.4. Understanding the Methods in the Akka Actor Lifecycle
+****
 ****
 
-13.5. Starting an Actor
-****
-
-13.6. Stopping Actors
-****
-
-13.7. Shutting Down the Akka Actor System
-****
-
-13.8. Monitoring the Death of an Actor with watch
-****
-
-13.9. Simple Concurrency with Futures
-****
-
-13.10. Sending a Message to an Actor and Waiting for a Reply
-****
-
-13.11. Switching Between Different States with become
-****
-
-3.12. Using Parallel Collections
 ****
 ****
 
@@ -783,6 +846,119 @@ Introduction
 ****
 ****
 
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
+****
+
+****
 ****
 ****
 
