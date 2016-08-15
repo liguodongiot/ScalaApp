@@ -721,46 +721,6 @@ Introduction
 
 
 
-### Chapter 13. Actors and Concurrency（Actors和并发）
-
-#### Introduction
-
-
-#### 13.1. Getting Started with a Simple Actor
-****
-
-#### 13.2. Creating an Actor Whose Class Constructor Requires Arguments
-****
-
-#### 13.3. How to Communicate Between Actors
-****
-
-#### 13.4. Understanding the Methods in the Akka Actor Lifecycle
-****
-
-#### 13.5. Starting an Actor
-****
-
-#### 13.6. Stopping Actors
-****
-
-#### 13.7. Shutting Down the Akka Actor System
-****
-
-#### 13.8. Monitoring the Death of an Actor with watch
-****
-
-#### 13.9. Simple Concurrency with Futures
-****
-
-#### 13.10. Sending a Message to an Actor and Waiting for a Reply
-****
-
-#### 13.11. Switching Between Different States with become
-****
-
-#### 13.12. Using Parallel Collections
-****
 
 ### CHAPTER 14 Command-Line Tasks
 
