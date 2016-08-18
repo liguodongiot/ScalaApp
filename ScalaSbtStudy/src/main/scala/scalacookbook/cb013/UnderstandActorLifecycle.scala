@@ -7,6 +7,8 @@ import akka.actor.{Actor, ActorSystem, Props}
   */
 object UnderstandActorLifecycle extends App{
 
+  import understandActorLifecycle._
+
   val system = ActorSystem("LifecycleDemo")
 
   val kenny = system.actorOf(Props[Kenny], name = "Kenny")
@@ -28,36 +30,40 @@ object UnderstandActorLifecycle extends App{
 
 }
 
-case object ForceRestart
+package understandActorLifecycle{
+
+  case object ForceRestart
 
 
-class Kenny extends Actor {
+  class Kenny extends Actor {
 
-  println("Kenny-->entered the Kenny constructor")
+    println("Kenny-->entered the Kenny constructor")
 
-  override def preStart { println("kenny: preStart") }
+    override def preStart { println("kenny: preStart") }
 
-  override def postStop { println("kenny: postStop") }
+    override def postStop { println("kenny: postStop") }
 
-  override def preRestart(reason: Throwable, message: Option[Any]) {
-    println("kenny: preRestart")
-    println(s" MESSAGE: ${message.getOrElse("")}")
-    println(s" REASON: ${reason.getMessage}")
-    super.preRestart(reason, message)
+    override def preRestart(reason: Throwable, message: Option[Any]) {
+      println("kenny: preRestart")
+      println(s" MESSAGE: ${message.getOrElse("")}")
+      println(s" REASON: ${reason.getMessage}")
+      super.preRestart(reason, message)
+    }
+
+    override def postRestart(reason: Throwable) {
+      println("kenny: postRestart")
+      println(s" REASON: ${reason.getMessage}")
+      super.postRestart(reason)
+    }
+
+    def receive = {
+      case ForceRestart => throw new Exception("Boom!")
+      case _ => println("Kenny received a message")
+    }
+
+    //the pre* and post* methods can be used to initialize and close
+    //resources that your actor requires.
+
   }
-
-  override def postRestart(reason: Throwable) {
-    println("kenny: postRestart")
-    println(s" REASON: ${reason.getMessage}")
-    super.postRestart(reason)
-  }
-
-  def receive = {
-    case ForceRestart => throw new Exception("Boom!")
-    case _ => println("Kenny received a message")
-  }
-
-  //the pre* and post* methods can be used to initialize and close
-  //resources that your actor requires.
 
 }

@@ -11,7 +11,9 @@ resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/release
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % "2.3.15",
   "org.scalatest" % "scalatest_2.10" % "2.2.6" % "test",
-  "org.mockito" % "mockito-core" % "1.10.19" % "test"
+  "org.mockito" % "mockito-core" % "1.10.19" % "test",
+  "net.liftweb" % "lift-webkit_2.10" % "2.6.3",
+  "net.liftweb" % "lift-json_2.10" % "2.6.3",
+  "com.google.code.gson" % "gson" % "2.6.2"
 )
 
-    

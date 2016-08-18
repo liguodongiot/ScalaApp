@@ -46,3 +46,25 @@
 **UseParallelCollection**
 
 
+
+### Chapter 15. Web Services
+
+#### Introduction
+
+#### 15.1. Creating a JSON String from a Scala Object
+LiftJsonTest
+GsonTest
+LiftJsonWithCollections
+
+
+
+
+
+
+
+
+
+
+
+
+
